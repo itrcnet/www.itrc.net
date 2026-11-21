@@ -6,6 +6,9 @@ body_class: page page-template-page-nosidebar
 permalink: "/meet/60/cfp-demo/index.html"
 ---
 
+> 第60回研究会は2026年11月4日に終了しました。デモ展示の申込受付も終了しています。以下は開催当時の募集要項です。
+
+
 - 2026/11/3 （火）　9:00　～　19:00
 - 2026/11/4（水）　9:00　～　13:00
 

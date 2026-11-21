@@ -9,7 +9,7 @@ permalink: "/n/board/index.html"
 <div markdown="0">
 <div class="entry-content typesquare_option">
 <p><span style="color: #ff0000;">このページは古い内容です (記録のために残しております)。</span><br><span style="color: #ff0000;">最新の情報については以下をご覧ください。(2022/7/8 更新)</span></p>
-<p>シン ITRC<br><span>https://itrc.dev</span></p>
+<p>シン ITRC<br><a href="https://rm.itrc.net/projects/public/wiki">https://rm.itrc.net/projects/public/wiki</a></p>
 <p class=" typesquare_option"><strong class=" typesquare_option">理事</strong></p>
 <ul class=" typesquare_option">
 <li class=" typesquare_option">下條 真司 (大阪大学)</li>

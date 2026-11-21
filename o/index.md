@@ -6,6 +6,9 @@ body_class: page page-template-page-nosidebar
 permalink: "/o/index.html"
 ---
 
+> このページは、日本学術振興会のもとで活動した旧ITRCの記録です。本文中の「最新情報」「今後」などは当時の表現です。現在の活動は[シン ITRCのトップページ](../index.html)、入会案内は[シン ITRCのWiki](https://rm.itrc.net/projects/public/wiki#シン-ITRC-への入会)をご覧ください。
+
+
 2022 年 3 月 2 日 (水) に [ITRC 解散総会](../meet/final/index.html)が開催され、ITRC の解散が決議されました。これまでのご愛顧ありがとうございました。ITRC 先生の次回作 ([新 ITRC (産学協力研究コンソーシアム インターネット技術研究会](../index.html))) にご期待ください。
 
 ## 最新情報
@@ -50,7 +53,7 @@ ITRCへぜひご入会ください。
 
 <div markdown="0">
 <ul>
- 	<li><a href="join/index.html">入会手続き</a></li>
+<li><a href="https://rm.itrc.net/projects/public/wiki#シン-ITRC-への入会">入会手続き（産学協力研究コンソーシアム インターネット技術研究会 (シン ITRC)）</a></li>
  	<li><span title="リンク先を確認できないため、リンクを解除しています。">分科会への参加</span></li>
  	<li><span title="リンク先を確認できないため、リンクを解除しています。">その他問い合わせ</span></li>
 </ul>

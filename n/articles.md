@@ -9,7 +9,7 @@ permalink: "/n/articles/index.html"
 <div markdown="0">
 <div class="entry-content typesquare_option">
 <p><span style="color: #ff0000;">このページは古い内容です (記録のために残しております)。</span><br><span style="color: #ff0000;">最新の情報については以下をご覧ください。(2022/7/8 更新)</span></p>
-<p>シン ITRC<br><span>https://itrc.dev</span></p>
+<p>シン ITRC<br><a href="https://rm.itrc.net/projects/public/wiki">https://rm.itrc.net/projects/public/wiki</a></p>
 <p class=" typesquare_option"><strong class=" typesquare_option">第１章 総則</strong></p>
 <p class=" typesquare_option">（名称）</p>
 <p class=" typesquare_option">第１条　この会は、産学協力研究コンソーシアム インターネット技術研究会（ITRC）（以下「本会」という。）と称する。英文では Internet Technology Research Consortium と表示する。</p>
