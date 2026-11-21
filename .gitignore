@@ -1,0 +1,34 @@
+# Jekyll build output and caches
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+
+# Local Ruby dependencies and settings
+/.bundle/
+/vendor/
+
+# Local audits, backups, and WordPress exports
+/reports/
+/backups/
+/itrcwebsite.WordPress.*.xml
+*.dump
+*.sql
+*.tgz
+*.log
+
+# Local credentials and agent/editor state
+.env
+.env.*
+!.env.example
+/.aws/
+/.codex/
+/.agents/
+/.vscode/
+/.idea/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

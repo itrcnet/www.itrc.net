@@ -1,0 +1,159 @@
+ボイス オブ デイジーでの iOS/Android のアクセシブルなアプリ開発
+有限会社サイパック
+工藤 智行
+────────────────────
+ボイス オブ デイジーの紹介
+────────────────────
+デイジー録音図書の再生アプリ
+────────────────────
+対応しているDAISYフォーマット
+・DAISY 2.02準拠の音声と目次のみの録音図書
+・DAISY 2.02準拠の音声とフルテキストの録音図書
+・テキストDAISYは未対応
+────────────────────
+主な機能
+・VoiceOver/TalkBackによる画面読み上げ対応
+・再生速度、ピッチ、間(インターバル)設定
+・表示色(テキスト、背景色、ハイライト)
+・ズーム、ピンチイン・ピンチアウト
+・タッチした箇所へのジャンプ
+・ナビゲーション移動
+・目次、ページ一覧からの再生
+・しおり機能
+・ページ番号指定ジャンプ
+────────────────────
+iOS版動作環境
+・iPad, iPhone, iPod touchでデイジーを再生
+・iOS 5.0以降のデバイスで動作
+────────────────────
+iOS版対応機種
+・iPhone 3GS, 4, 4S, 5, 5S, 5C, 6, 6plus
+・iPad 1, 2, 3, 4, Air, Air 2
+・iPad mini 1, 2, 3
+・iPod touch 4th, 5th
+────────────────────
+Android版動作環境
+・Andorid 4.1以降のスマホ・タブレット
+・日本語の縦書きは Android 4.4以降
+────────────────────
+Android版動作確認機種
+・らくらくスマートホンプレミアム
+・nexus 7 (2012/2013), 10, 5
+・SAMSUNG Galaxy S3, S4
+・SAMSUNG Galaxy TAB2
+・MOTOROLA RAZR
+・ASUS MeMO Pad7
+・Lenovo YOGA Tablet
+────────────────────
+ボイス オブ デイジーの内部構造
+────────────────────
+iOS/Androidの開発言語
+・iOS →Objective-C, Swift
+・Android →Java
+・どうやって両方のプラットホームに対応したアプリを開発するか？
+────────────────────
+iOS  VOD  Version 1～3
+────────────────────
+iOS  VOD  Version 4
+────────────────────
+Android VOD
+────────────────────
+iOS/Androidの両方に対応したアクセシブルなアプリを開発するなら
+・アクセシビリティを考慮していないマルチプラットホームなフレームワークは使わないのが吉
+・エンジン（モデル）部分は可搬性良くC/C++で書く
+・UI（ビュー、コントローラ）はネイティブなObjective-CやJava
+・ネイティブなUIを使うのがアクセシビリティ的に一番きめ細かなな対応ができる
+────────────────────
+SWIG
+・C++とJAVAのインターフェースをJNIを使って手書きで実装するのは非現実的。人間のやる仕事ではない。
+・C++のクラス宣言のダイジェスト版をSWIGに与えると、JAVA用のインターフェースが自動生成される。
+・C++とJAVAのコードはSWIGを通じて行き来できる。
+・VODではSWIGを使って、C++のネイティブコードと、JAVAのUIを連結している。
+────────────────────
+iOSアプリのVoiceOver対応
+────────────────────
+VoiceOver 対応　その1
+各UI部品にアクセシブル ラベルを振る
+────────────────────
+VoiceOver 対応　その２
+UI部品の機能が状況変化するなら、アクセシブルラベルの内容も更新
+
+- (void)changePlayButton:(BOOL)playP
+{
+　/* ...省略... */
+  if (playP)
+  {
+    [playButton setAccessibilityLabel:NSLocalizedString(@"UI022", @"Button title (Body text screen)")]; /* 再生 */
+  }
+  else
+  {
+    [playButton setAccessibilityLabel:NSLocalizedString(@"UI023", @"Button title (Body text screen)")]; /* 停止 */
+  }
+  /* ボタンの変更を通知 */
+  UIAccessibilityPostNotification(UIAccessibilityLayoutChangedNotification, nil);
+  /* ...省略... */
+}
+────────────────────
+VoiceOver 対応　その３
+独自描画の画面(View)にVoiceOverインターフェースを追加
+
+// for VoiceOver
+- (BOOL)isAccessibilityElement;
+- (void)setupAccessibleElements;
+- (NSArray*)accessibleElements;
+- (NSInteger)accessibilityElementCount;
+- (id)accessibilityElementAtIndex:(NSInteger)index;
+(NSInteger)indexOfAccessibilityElement:(id)element;
+- (void)rebuildAccessibleElements;
+
+画面の各描画単位にUIAccessibilityElement を持たせ、適切なラベル、属性、描画領域の座標設定も必要
+────────────────────
+VoiceOver対応の詳細
+・Accessibility for Developers
+・https://developer.apple.com/accessibility/
+────────────────────
+AndroidアプリのTalkBack対応
+────────────────────
+TalkBack対応　その1
+各UI部品に読み上げ用にラベルを振る
+
+<ImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/playback_imageButton4"
+    android:src=“@drawable/button_play"
+    android:padding=“8dp"
+    android:contentDescription="@string/UI022"
+    android:layout_gravity="center_horizontal|top" />
+
+android:nextFocusUp, android:nextFocusDown, android:nextFocusLeft, android:nextFocusRight の属性を設定するとTalkBackのナビゲーション順をコントロール可
+────────────────────
+TalkBack 対応　その２
+UI部品の機能が状況変化するなら、ラベルの内容を更新
+
+private void setupPlayPauseButtonImage(boolean play_p)
+{
+  boolean reverce_p = false;
+  Preference pref = app_model.getPreference();
+  if (doc_model.verticalP() && pref.prefForVerticalWritingP())
+  {
+    reverce_p = true;
+  }
+  ImageButton image_button4 = (ImageButton)view.findViewById(R.id.playback_imageButton4);
+  image_button4.setImageResource(play_p ? (reverce_p ? R.drawable.button_play_v : R.drawable.button_play) : R.drawable.button_pause);
+  String label = getResources().getText(play_p ? R.string.UI022/*"Play"*/ : R.string.UI023/*"Stop"*/).toString();
+  image_button4.setContentDescription(label);
+}
+
+────────────────────
+TalkBack対応　その2 続き
+AccessibilityEventを発行し画面上の表示内容の変更をTalkBackに伝える
+
+sendAccessibilityEvent(AccessibilityEvent.TYPE_VIEW_TEXT_CHANGED);
+
+────────────────────
+TalkBack対応の詳細
+
+・Implementing Accessibility
+・http://developer.android.com/training/accessibility/index.html
+────────────────────

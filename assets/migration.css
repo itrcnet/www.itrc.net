@@ -1,0 +1,55 @@
+h1.site-title , 
+h1.entry-title,
+h2,
+h3,
+h4
+{
+/*	font-family:"PT Serif","Georgia","Helvetica Neue",Arial,sans-serif; */
+	font-weight: 800;
+}
+h1.page-title 
+{
+	margin-top: 0.5em;
+}
+h2
+{
+	font-size: 1.5em;
+}
+h2.site-description 
+{
+	font-weight: 800;
+	margin-top: -1.2em;
+	font-size: 0.9em;
+}
+h3
+{
+	font-size: 1.2em;
+}
+h4
+{
+	font-size: 1em;
+}
+p, ul, li {
+/*	font-family:"PT Serif",Georgia,Times,"Times New Roman",serif */
+}
+dd {
+	margin-bottom: 0.5em;
+}
+.site-main {
+	margin: 0 10% 0 0;
+}
+#photos ul, li {
+ /* display: inline-block; */	
+ /* margin: 0; */
+}
+th,td {
+    border: solid 1px;  /* 枠線指定 */
+    padding: 10px;      /* 余白指定 */
+}
+
+table {
+    border-collapse:  collapse; /* セルの線を重ねる */
+}
+.entry-content img { max-width: 100%; height: auto; }
+.entry-content details { margin: 1em 0; }
+.entry-content summary { cursor: pointer; font-weight: bold; }

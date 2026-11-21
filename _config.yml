@@ -1,0 +1,17 @@
+---
+title: ITRC Web Site
+description: Internet Technology Research Consortium
+url: ''
+baseurl: ''
+lang: ja
+timezone: Asia/Tokyo
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- vendor
+- scripts
+- reports
