@@ -48,8 +48,8 @@ permalink: "/meet/59/cfp-demo/index.html"
 
 ## 申込
 
-以下のリンクより申し込みください。  
-[https://docs.google.com/forms/d/e/1FAIpQLSfuwUIOgzpcidu0lPqkhDBvcrUiyPePQDy7W6CJiqR-IAo42g/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfuwUIOgzpcidu0lPqkhDBvcrUiyPePQDy7W6CJiqR-IAo42g/viewform?usp=dialog)
+申込受付は終了しました。  
+申込フォーム（受付終了）
 
 ## 申込締切
 

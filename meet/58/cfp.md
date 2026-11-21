@@ -75,8 +75,8 @@ permalink: "/meet/58/cfp/index.html"
 
 ## ~~一般発表（口頭発表，WIPポスター発表）、9月16日(火)9月11日(木)〆切~~
 
-口頭一般・ポスター講演を募集します、以下リンクより申し込みください。  
-[https://docs.google.com/forms/d/e/1FAIpQLSdTNEw7gkb386\_qTXpE85o6FoOyFrp9Jx4CvpsFl-OdRq3Qmg/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdTNEw7gkb386_qTXpE85o6FoOyFrp9Jx4CvpsFl-OdRq3Qmg/viewform?usp=header)
+口頭一般・ポスター講演を募集します、申込受付は終了しました。  
+申込フォーム（受付終了）
 
 ## ~~デモ展示、9月18日(木)〆切~~
 

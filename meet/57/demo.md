@@ -45,7 +45,7 @@ permalink: "/meet/57/demo/index.html"
 
 ## 申込
 
-締め切りました．~~ITRC meet57デモ申込みフォーム ([https://docs.google.com/forms/d/e/1FAIpQLSf8mCvPf3nydfB71N3ScaTw16Q\_C-AdC5hHiYizl5JKB3-VRQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf8mCvPf3nydfB71N3ScaTw16Q_C-AdC5hHiYizl5JKB3-VRQ/viewform)) からお申し込みください。~~
+締め切りました．~~ITRC meet57デモ申込みフォーム (申込フォーム（受付終了）) からお申し込みください。~~
 
 - Subject: meet57デモ展示
 - お名前

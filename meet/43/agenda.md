@@ -51,7 +51,7 @@ permalink: "/meet/43/agenda/index.html"
 
 <div markdown="0">
 <p>
-<a href="http://goo.gl/m4VQPS">ITRC meet43 参加申込</a>から参加申込を受け付けております。交流会参加をご希望の方は、5 月 9 日 (水) までに申込をお願いいたします。
+<span>ITRC meet43 参加申込（受付終了）</span>。参加申込は締め切りました。交流会参加をご希望の方は、5 月 9 日 (水) までに申込をお願いいたします。
 <span style="color: #ff0000;">※ 受付は終了しました</span>
 
 </p>
@@ -62,7 +62,7 @@ permalink: "/meet/43/agenda/index.html"
 <div markdown="0">
 <p>
 研究会両日の午前中に、学生セッションを企画いたします。
-<a href="http://goo.gl/piDS8u">ITRC meet43 学生セッション申込</a>から参加申込を受け付けております。5 月 <del>14 日 (月)</del> 16 日 (水) までに申込をお願いいたします。
+<span>ITRC meet43 学生セッション申込（受付終了）</span>。参加申込は締め切りました。5 月 <del>14 日 (月)</del> 16 日 (水) までに申込をお願いいたします。
 <span style="color: #ff0000;">※ 受付は終了しました</span>
 </p>
 </div>
@@ -71,6 +71,8 @@ permalink: "/meet/43/agenda/index.html"
 - 発表形式：口頭発表 (15 分 (内質疑 3 分)) or ポスター発表
 
 ## デモ展示
+
+**受付は終了しました。**
 
 デモ展示をご希望の方は、[ITRC meet43 デモ展示要項](../demonstration/index.html)を参照し、下記[問い合わせ先](#pcla)にご連絡ください。デモ展示費用は以下のとおりです。
 
@@ -119,7 +121,7 @@ permalink: "/meet/43/agenda/index.html"
 
 <div markdown="0">
 <p>
-2018年5月31日 (木) の 18:30 より交流会を行います。料金は当日受付にてお支払ください。一般 5,000 円、学生 2,500 円を予定しています。交流会への参加を希望される方は、必ず<a href="http://goo.gl/m4VQPS">ITRC meet43 参加申込</a>からお申し込み下さい。
+2018年5月31日 (木) の 18:30 より交流会を行います。料金は当日受付にてお支払ください。一般 5,000 円、学生 2,500 円を予定しています。交流会への参加を希望される方は、必ず<span>ITRC meet43 参加申込（受付終了）</span>からお申し込み下さい。
 <span style="color: #ff0000;">※ 受付は終了しました</span>
 
 </p>

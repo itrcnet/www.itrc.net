@@ -67,6 +67,8 @@ permalink: "/meet/43/demonstration/index.html"
 
 ## 申込み
 
+**受付は終了しました。**
+
 以下のフォーマットでご記入の上、meet43-worker [at] mail.itrc.net 宛にお送りください。申し込み締め切りは 2018 年 4 月 27 日 (金) 17:00 です。
 
 - 責任者情報

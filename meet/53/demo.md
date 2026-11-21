@@ -47,7 +47,7 @@ permalink: "/meet/53/demo/index.html"
 
 ## 申込
 
-[ITRC meet53デモ申込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe6s8NVMw667iFxbqPqT6t9q_GRftwQ_Ft7W79A8BuF9Y9QIg/viewform?usp=sf_link) からお申し込みください。
+ITRC meet53デモ申込みフォーム（受付終了）。
 
 Google フォーム へのアクセスが困難な方は以下の内容で PC・LA までごメールください。
 

@@ -29,7 +29,7 @@ permalink: "/meet/59/cfp/index.html"
 ## 参加登録
 
 <div markdown="0">
-<p><s>以下リンクより申し込みください。</s>締め切りました<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSf2Qgl2--mYEWlh2Qj10H_pyel06K36PeeUp0wbyu0LtF-4bg/viewform?usp=dialog"><s>https://docs.google.com/forms/d/e/1FAIpQLSf2Qgl2--mYEWlh2Qj10H_pyel06K36PeeUp0wbyu0LtF-4bg/viewform?usp=dialog</s></a></p>
+<p><s>以下リンクより申し込みください。</s>締め切りました<br><span>申込フォーム（受付終了）</span></p>
 </div>
 
 ## テーマ
@@ -111,8 +111,8 @@ permalink: "/meet/59/cfp/index.html"
 
 ## 一般発表（口頭発表，WIPポスター発表）、4月24日(金)〆切【延長しました】
 
-口頭一般・ポスター講演を募集します。以下リンクより申し込みください。  
-[https://docs.google.com/forms/d/e/1FAIpQLScBYw41ClQ4FjPzPGVZk8XHRkO0yBi75EBDFfu2EdvEBPf3Wg/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLScBYw41ClQ4FjPzPGVZk8XHRkO0yBi75EBDFfu2EdvEBPf3Wg/viewform?usp=dialog)
+口頭一般・ポスター講演を募集します。申込受付は終了しました。  
+申込フォーム（受付終了）
 
 ## デモ展示、4月21日(火)〆切
 

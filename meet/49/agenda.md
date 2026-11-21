@@ -27,7 +27,7 @@ permalink: "/meet/49/agenda/index.html"
 
 ## 参加登録
 
-- [第 49 回 ITRC 研究会参加申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdnG0Rn3EmsWMRAhqYplvHgw6sEtCVdT1AwLiarU9f--EF27w/viewform?usp=sf_link) から参加登録をよろしくお願いいたします。
+- 第 49 回 ITRC 研究会参加申込フォーム（受付終了） 。参加登録は締め切りました。
 - 5 月 19 日 (水) 〆切
 
 ## テーマ
@@ -35,6 +35,8 @@ permalink: "/meet/49/agenda/index.html"
 - インターネット全般
 
 ## デモ展示
+
+**受付は終了しました。**
 
 - 5月 19 日 (水) 17 時〆切予定
 - デモ展示をご希望の方は、[ITRC meet49 デモ展示要項](../demonstration/index.html)をご参照ください。

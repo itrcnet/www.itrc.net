@@ -45,7 +45,7 @@ JR葛西臨海公園駅からのアクセスは、駅の階段を降りて地上
 
 ## 参加登録
 
-[https://docs.google.com/forms/d/e/1FAIpQLSeMzBBFEDd9RvfzJRI\_kXMPlFmOMV5LGGRHLVzaQE35jfdgig/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSeMzBBFEDd9RvfzJRI_kXMPlFmOMV5LGGRHLVzaQE35jfdgig/viewform?usp=dialog)&nbsp;
+申込フォーム（受付終了）&nbsp;
 
 ## 情報交換会
 
@@ -91,7 +91,7 @@ JR葛西臨海公園駅からのアクセスは、駅の階段を降りて地上
 ## 一般発表募集
 
 ~~一般講演 (今回は口頭発表のみ)を募集しています．以下からお申し込み下さい．~~締め切りました．  
-[https://docs.google.com/forms/d/e/1FAIpQLSf8mCvPf3nydfB71N3ScaTw16Q\_C-AdC5hHiYizl5JKB3-VRQ/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSf8mCvPf3nydfB71N3ScaTw16Q_C-AdC5hHiYizl5JKB3-VRQ/viewform?usp=dialog)
+申込フォーム（受付終了）
 
 
 
@@ -102,7 +102,7 @@ JR葛西臨海公園駅からのアクセスは、駅の階段を降りて地上
 ## デモセッション/デモ展示募集
 
 ~~デモ展示を募集しています．以下からお申し込み下さい．~~ 締め切りました．  
-[https://docs.google.com/forms/d/e/1FAIpQLSfLOqFGwd0tLR34Bar2kgxY2uRDEbe-62kAVZN\_M-2rbaS4cg/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfLOqFGwd0tLR34Bar2kgxY2uRDEbe-62kAVZN_M-2rbaS4cg/viewform?usp=dialog)
+申込フォーム（受付終了）
 
 
 

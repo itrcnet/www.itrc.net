@@ -46,6 +46,8 @@ permalink: "/meet/55/cfp/index.html"
 
 ## 参加登録
 
+**受付は終了しました。**
+
 
 
 参加登録の受け付けを終了しました。オンラインでの参加登録を希望される方は meet55-worker[at-mark]mail.itrc.net までご連絡ください。

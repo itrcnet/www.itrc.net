@@ -20,7 +20,7 @@ permalink: "/meet/52/cfp/index.html"
 
 参加登録フォーム
 
-[https://docs.google.com/forms/d/e/1FAIpQLSdE8osrvY3nBUqKV09kc80\_aLdB9UDcgP2TLTPIwaBFWOZ3vw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdE8osrvY3nBUqKV09kc80_aLdB9UDcgP2TLTPIwaBFWOZ3vw/viewform)
+申込フォーム（受付終了）
 
 参加登録締め切り：11月18日(金)23:59
 

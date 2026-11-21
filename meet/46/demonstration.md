@@ -44,6 +44,8 @@ permalink: "/meet/46/demonstration/index.html"
 
 ## 申込み
 
+**受付は終了しました。**
+
 <div markdown="0">
 <p>
 以下のフォームにご記入の上、meet46-worker[at-mark]mail.itrc.net 宛に

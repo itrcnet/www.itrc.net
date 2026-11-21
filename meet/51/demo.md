@@ -45,7 +45,7 @@ ITRC meet51 では、デモ展示を募集します。ご希望の方は以下�
 
 ## 申込
 
-&nbsp; [Google フォーム](https://forms.gle/kb3UFUKBNU2hJ4rT7) からお申し込みください。GoogleフォームがNGの方は PC・LA までご連絡ください。
+&nbsp; Google フォーム（受付終了）。GoogleフォームがNGの方は PC・LA までご連絡ください。
 
 ## 申込締切
 

@@ -29,7 +29,7 @@ permalink: "/meet/53/cfp/index.html"
 
 ## 参加登録
 
-[ITRC meet53 参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLScnSDpxbu5ZD01EZZEu0-_XTxxXfelcHt1OUnaATMuUfGWfRg/viewform?usp=sf_link)からお申込みください。
+ITRC meet53 参加登録フォーム（受付終了）。
 
 ## 参加費
 
@@ -41,13 +41,19 @@ permalink: "/meet/53/cfp/index.html"
 
 ## 一般発表募集
 
+**受付は終了しました。**
+
 お申し込み多数のため締め切らせていただきました。
 
 ## ポスター発表募集
 
+**受付は終了しました。**
+
 お申し込み多数のため締め切らせていただきました。
 
 ## デモセッション/デモ展示
+
+**受付は終了しました。**
 
 お申し込み多数のため締め切らせていただきました。
 

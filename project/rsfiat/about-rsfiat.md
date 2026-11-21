@@ -23,7 +23,7 @@ July 26, 2013
 
 ## Registration and Donation
 
-[Go to Registration and Donation page](http://www.mobile-broadband.org/hirabaru2013/e1.html) handled by Mobile Broadband Association
+Go to Registration and Donation page（受付終了） handled by Mobile Broadband Association
 
 ### Details
 

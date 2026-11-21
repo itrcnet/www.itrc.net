@@ -45,6 +45,8 @@ permalink: "/meet/46/agenda-true/index.html"
 
 ## デモ展示
 
+**受付は終了しました。**
+
 デモ展示をご希望の方は、[ITRC meet46 デモ展示要項](../demonstration/index.html)を参照し、下記[問い合わせ先](#pcla)にご連絡ください。デモ展示費用は以下のとおりです。
 
 - 会員企業: 無料

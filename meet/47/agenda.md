@@ -33,8 +33,8 @@ permalink: "/meet/47/agenda/index.html"
 
 ## 参加申込
 
-- 参加申し込みは[こちら](https://docs.google.com/forms/d/e/1FAIpQLSd1TwfT1pl6qHZCOKfkpzQ0Q0WIj82kgX_tUosP7i08dg-7nA/viewform?usp=sf_link)からお願いします。参加申込をされた方にアクセスに必要な情報をお送りします。
-- オンライン意見交換会内で Lightning Talk をご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeDhRyyaR7S9-KKQje61PptSYrsKNnMibigTkvbsw-2DzSqWg/viewform?usp=sf_link)よりお申し込みください。
+- 参加申し込みは申込フォーム（受付終了）。参加申込をされた方にアクセスに必要な情報をお送りします。
+- オンライン意見交換会内で Lightning Talk をご希望の方は申込フォーム（受付終了）。
 
 ## プログラム
 
@@ -50,7 +50,7 @@ permalink: "/meet/47/agenda/index.html"
 - 17:30 〜 オンライン意見交換会
   - 17:00ごろからミーティングを開けておきます。
   - 各自で飲み物やおつまみをご用意ください。
-  - Lightning Talk の時間を設ける予定です。発表をご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeDhRyyaR7S9-KKQje61PptSYrsKNnMibigTkvbsw-2DzSqWg/viewform?usp=sf_link)よりお申し込みください。会員企業や委員等の皆様の近況や、研究プロジェクト等のご紹介・近況報告、所属組織等における新型コロナウイルス感染症対応のご経験や課題など（これらに限るものではありません）、皆様からのお申し込みをお待ちしております。
+  - Lightning Talk の時間を設ける予定です。発表をご希望の方は申込フォーム（受付終了）。会員企業や委員等の皆様の近況や、研究プロジェクト等のご紹介・近況報告、所属組織等における新型コロナウイルス感染症対応のご経験や課題など（これらに限るものではありません）、皆様からのお申し込みをお待ちしております。
 
 ### 2 日目 (2020 年 5 月 22 日 (金))
 

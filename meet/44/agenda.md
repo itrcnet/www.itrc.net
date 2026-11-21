@@ -42,6 +42,8 @@ permalink: "/meet/44/agenda/index.html"
 
 ## 参加申込
 
+**受付は終了しました。**
+
 <div markdown="0">
 <p>
 

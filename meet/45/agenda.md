@@ -49,12 +49,14 @@ permalink: "/meet/45/agenda/index.html"
 
 <div markdown="0">
 <ul>
- 	<li>参加申し込みは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdC38QC7lnb1g8aGvVFoE-RQUJ3JMmKs-stSj_AGg0obiaItQ/viewform">こちら</a>からお願いします。参加申込締切は<span style="color: #ff0000;"><strong>5月7日（火）18:00</strong> <span style="color: #000000;">です。</span></span>
+  <li>参加申し込みは<span>申込フォーム（受付終了）</span>。参加申込締切は<span style="color: #ff0000;"><strong>5月7日（火）18:00</strong> <span style="color: #000000;">です。</span></span>
 </li>
 </ul>
 </div>
 
 ## デモ展示
+
+**受付は終了しました。**
 
 デモ展示をご希望の方は、[ITRC meet45 デモ展示要項](../demonstration/index.html)を参照し、下記[問い合わせ先](#pcla)にご連絡ください。デモ展示費用は以下のとおりです。
 

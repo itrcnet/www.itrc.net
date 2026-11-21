@@ -53,6 +53,8 @@ permalink: "/meet/49/demonstration/index.html"
 
 ## お申し込み
 
+**受付は終了しました。**
+
 <div markdown="0">
 <p>
 以下のフォームにご記入の上、<a href="mailto:meet49-worker@mail.itrc.net">meet49-worker@mail.itrc.net</a> 宛に

@@ -32,7 +32,7 @@ permalink: "/meet/51/agenda/index.html"
 
 ## 参加登録
 
-- [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfi-I5oYp7gmAbu5W3LrMqOX14kR7GzkgF8DVn9-IiLMYwj2A/viewform?usp=sf_link)からお申込みください。
+- 申込フォーム（受付終了）。
 
 ## 参加費
 

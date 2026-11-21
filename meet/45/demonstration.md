@@ -59,6 +59,8 @@ permalink: "/meet/45/demonstration/index.html"
 
 ## 申込み
 
+**受付は終了しました。**
+
 <div markdown="0">
 <p>
 以下のフォームにご記入の上、<a href="mailto:itrc-meet45-worker@itrc.net">itrc-meet45-worker@itrc.net</a> 宛に

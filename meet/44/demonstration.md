@@ -53,6 +53,8 @@ permalink: "/meet/44/demonstration/index.html"
 
 ## 申込み
 
+**受付は終了しました。**
+
 以下のフォームにご記入の上、[ic18itrc44org[at-mark]itrc5.sakura.ne.jp](mailto:ic18itrc44org@itrc5.sakura.ne.jp) 宛にお送りください。
 
 <div markdown="0">

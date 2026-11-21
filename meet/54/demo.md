@@ -47,6 +47,8 @@ permalink: "/meet/54/demo/index.html"
 
 ## 申込
 
+**受付は終了しました。**
+
 <div markdown="0">
 <p><del>ITRC meet54デモ申込みフォーム</del> からお申し込みください。 Google フォーム へのアクセスが困難な方は以下の内容で PC・LA までごメールください。<span style="color: #ff0000;">→ 申し込みは終了しました（10/14）</span></p>
 </div>
