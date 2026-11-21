@@ -1,0 +1,10 @@
+---
+layout: page
+title: ohmori の記事
+asset_prefix: "../../"
+body_class: page page-template-page-nosidebar
+permalink: "/author/ohmori/index.html"
+---
+
+- [meet57プログラム (随時更新)](../../meet/57/program/index.html)
+- [meet57 デモ展示募集要項](../../meet/57/demo/index.html)

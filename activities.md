@@ -1,0 +1,818 @@
+---
+layout: page
+title: 活動
+asset_prefix: "../"
+body_class: page page-template-page-nosidebar
+permalink: "/activities/index.html"
+---
+
+<div markdown="0">
+<p><a class="page_top" name="page_top"></a>
+</p>
+</div>
+
+### 分科会
+
+- シンITRC 分科会一覧（準備中）
+- [ITRC5期 分科会一覧](../o/itrc5/wg5/index.html)
+- [ITRC4期 分科会一覧](../o/itrc4/wg/index.html)
+
+### 出版物
+
+- （準備中）
+
+<div markdown="0">
+<h3 class="top">アーカイブ</h3>
+</div>
+
+<div markdown="0">
+<div class="main_body">
+<table>
+<caption>年度一覧</caption>
+<tbody>
+<tr>
+<th style="width: 92px;"><a href="https://rm.itrc.net/projects/public/wiki">シンITRC</a></th>
+<td style="width: 92px;"><a href="index.html#2026">2026年度</a></td>
+<td style="width: 92px;"><a href="index.html#2025">2025年度</a></td>
+<td style="width: 92px;"><a href="index.html#2024">2024年度</a></td>
+<td style="width: 92px;"><a href="index.html#2023">2023年度</a></td>
+<td style="width: 92px;"><a href="index.html#2022">2022年度</a></td>
+</tr>
+<tr>
+<th></th>
+<td style="width: 92px;"><a href="index.html#2021">2021年度</a></td>
+</tr>
+<tr>
+<th style="width: 92px;"><a href="../o/itrc5/index.html">ITRC5期</a></th>
+<td style="width: 92px;"><a href="index.html#2020">2020年度</a></td>
+<td style="width: 92px;"><a href="index.html#2019">2019年度</a></td>
+<td style="width: 92px;"><a href="index.html#2018">2018年度</a></td>
+<td style="width: 92px;"><a href="index.html#2017">2017年度</a></td>
+<td style="width: 92px;"><a href="index.html#2016">2016年度</a></td>
+</tr>
+<tr class="menu">
+<th style="width: 92px;"><a href="../o/itrc4/index.html">ITRC4期</a></th>
+<td style="width: 92px;"><a href="index.html#2015">2015年度</a></td>
+<td style="width: 92px;"><a href="index.html#2014">2014年度</a></td>
+<td style="width: 92px;"><a href="index.html#2013">2013年度</a></td>
+<td style="width: 92px;"><a href="index.html#2012">2012年度</a></td>
+<td style="width: 92px;"><a href="index.html#2011">2011年度</a></td>
+</tr>
+<tr>
+<th style="width: 92px;"><a href="../o/itrc3/index.html">ITRC3期</a></th>
+<td style="width: 92px;"><a href="index.html#2010">2010年度</a></td>
+<td style="width: 92px;"><a href="index.html#2009">2009年度</a></td>
+<td style="width: 92px;"><a href="index.html#2008">2008年度</a></td>
+<td style="width: 92px;"><a href="index.html#2007">2007年度</a></td>
+<td style="width: 92px;"><a href="index.html#2006">2006年度</a></td>
+</tr>
+<tr>
+<th style="width: 92px;">ITRC2期</th>
+<td style="width: 92px;"><a href="index.html#2005">2005年度</a></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">2004年度</span></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">2003年度</span></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">2002年度</span></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">2001年度</span></td>
+</tr>
+<tr>
+<th style="width: 92px;">ITRC1期</th>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">2000年度</span></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">1999年度</span></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">1998年度</span></td>
+<td style="width: 92px;"><span title="リンク先を確認できないため、リンクを解除しています。">1997年度</span></td>
+<td style="width: 92px;">1996年度</td>
+</tr>
+</tbody>
+</table>
+<div class="report">
+<h4>シンITRC</h4>
+<a class="2026" name="2026"></a>2026年度
+<ul>
+ 	<li>
+<a href="../meet/60/cfp/index.html">第60回研究会</a> (いこいの村能登半島,ハイブリッド開催)
+2026年11月2日(月)~4日(水)</li>
+ 	<li>
+<a href="../meet/59/cfp/index.html">第59回研究会 </a> (グラングリーン大阪Blooming Camp,ハイブリッド開催)
+2026年5月13日(水)~14日(木)</li>
+</ul>
+<a class="2025" name="2025"></a>2025年度
+<ul>
+ 	<li>
+<a href="../meet/58/cfp/index.html">第58回研究会</a> (釧路市観光国際交流センター,ハイブリッド開催)
+2025年11月10日(月)~12日(水)</li>
+ 	<li>
+<a href="../meet/57/cfp/index.html">第57回研究会</a>（青森大学東京キャンパス)
+2025年5月21日〜 22日，主催：シンITRC</li>
+</ul>
+<a class="2024" name="2024"></a>2024年度
+<ul>
+ 	<li>
+<a href="https://ricc.itrc.net/events/piot2025">RIXX-PIoT workshop 2025</a> (沖縄産業支援センター, ハイブリッド開催)
+2025 年 2 月 27日 〜 2 月 28日 主催: RIXX, PIoT</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/RIEC2024">RIXX-RIEC workshop 2024</a>（東北大学電気通信研究所）
+2024 年 12 月 7 日　主催：RIXX</li>
+ 	<li>
+<a href="../meet/56/cfp/index.html">第56回シンITRC研究会</a>（秋田アトリオン (秋田総合生活文化会館・美術館), ハイブリッド開催）
+2023 年 11 月 13 日　 〜 11 月 14 日， 主催：ITRC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/RIXX-workshop-2024">RIXX workshop 2024</a>（北海道大学, ハイブリッド開催）
+2024 年 8 月 29 日　主催：RIXX</li>
+ 	<li>
+<a href="../meet/55/cfp/index.html">第55回シンITRC研究会</a>（NICTイノベーションセンター, ハイブリッド開催）
+2023 年 5 月 16 日 〜 5 月 17 日， 主催：ITRC</li>
+</ul>
+<a class="2022" name="2023"></a>2023年度
+<ul>
+ 	<li>
+<a href="https://ricc.itrc.net/events/PIoT2024">RIXX-PIoT workshop 2024</a> (沖縄 沖縄産業支援センター, ハイブリッド開催)
+2024 年 2 月 27日 〜 2 月 29日 主催: RIXX, PIoT</li>
+ 	<li>
+<a href="../meet/54/cfp/index.html">第54回シンITRC研究会</a>（青森　青森県観光物産館アスパム, ハイブリッド開催）
+2023 年 11 月 22 日　 〜 11 月 24 日， 主催：ITRC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/RIXX2023">RIXX workshop 2023</a>（北海道　北海道大学, ハイブリッド開催）
+2023 年 8 月 29 日　主催：RIXX</li>
+ 	<li>
+<a href="../meet/53/cfp/index.html">第53回シンITRC研究会</a>（大阪　大阪大学中之島センター, ハイブリッド開催）
+2023 年 5 月 18 日 〜 5 月 19 日， 主催：ITRC</li>
+</ul>
+</div>
+<a class="2022" name="2022"></a>2022年度
+<ul>
+ 	<li>
+<a href="https://ricc.itrc.net/events/PIoT2023">RIXX-PIoT workshop 2023</a>（沖縄 沖縄産業支援センター, ハイブリッド開催）
+2023 年 2 月 28 日　 〜 3 月 1 日， 主催：ITRC</li>
+ 	<li>
+<a href="../meet/52/cfp/index.html">第52回シンITRC研究会</a>（新潟　新潟市万代市民会館, ハイブリッド開催）
+2022 年 11 月 21 日　 〜 11 月 21 日， 主催：ITRC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/18th-workshop">第18回地域間インタークラウドワークショップ</a>（北海道大学, ハイブリッド開催）
+2023 年 9 月 9 日　主催：RICC</li>
+ 	<li>
+<a href="../meet/51/agenda/index.html">第51回シンITRC研究会</a>（東京　東京工業大学, ハイブリッド開催）
+2022 年 8 月 30 日 〜 8 月 31 日，　主催：ITRC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+<h4>ITRC5期</h4>
+<a id="2021"></a>2021年度（2021年10月1日〜）
+<ul>
+ 	<li>
+<a href="../meet/final/index.html">ITRC解散総会・記念研究会</a>（沖縄 沖縄県市町村自治会館, ハイブリッド開催）
+2022 年 3 月 2 日，　主催：ITRC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/PIoT2022">RICC-PIoT workshop 2022</a>（沖縄 沖縄県市町村自治会館, ハイブリッド開催）
+2022 年 2 月 28 日 〜 3 月 1 日，　主催：RICC, PIoT</li>
+ 	<li>
+<a href="../meet/50/agenda/index.html">第50回ITRC研究会</a>（ハイブリッド開催）
+2021 年 11 月 22 日 〜 24 日，　主催：ITRC</li>
+</ul>
+<a class="2020" name="2020"></a>2020年度 (2020年 10 月 01 日 ～ 2021 年 09 月 30 日)
+<ul>
+ 	<li>
+<a class=" typesquare_option" href="../meet/49/agenda/index.html">第 49 回 ITRC 研究会</a> (オンライン開催)
+2021 年 5 月 20 日 (木) 〜 21 日 (金)　， 主催：ITRC</li>
+ 	<li>
+<a class=" typesquare_option" href="https://ricc.itrc.net/events/ricc-piot-workshop-2021">RICC-PIOT Workshop 2021</a> (沖縄 沖縄産業支援センター)
+2021 年 5 月 20 日 (木) 〜 21 日 (金)　， 主催：ITRC</li>
+ 	<li>
+<a class=" typesquare_option" href="../meet/48/agenda/index.html">第 48 回 ITRC 研究会</a> (オン/オフライン・ハイブリッド開催)
+2020 年 11 月 9 日 (月) 〜 11 日 (水)　， 主催：ITRC</li>
+</ul>
+<a class="2019" name="2019"></a>2019年度 (2019年 10 月 01 日 ～ 2020 年 09 月 30 日)
+<ul style="list-style-type: disc;">
+ 	<li>
+<a href="../meet/47/agenda/index.html">第 47 回 ITRC 研究会 </a>(オンライン開催）
+2020 年 5 月 21 日 〜 22 日， 主催 : ITRC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/PIoT2020">RICC-PIOT Workshop 2020</a>（沖縄 沖縄産業支援センター）
+2020 年 2 月 27 日 〜 28 日，　主催：RICC, PIoT</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/RIEC2019">RICC-RIEC Workshop 2019</a>（宮城 東北大学）
+2019 年 12 月 16 日，　主催：RICC</li>
+ 	<li>
+<a href="../meet/46/agenda/index.html">第 46 回 ITRC 研究会</a> 　(青森 <a href="http://www.tsugarudensho.com/">津軽伝承工芸館</a>)
+2019 年 11 月 27 日 〜 29 日　主催：ITRC</li>
+ 	<li>
+<a href="https://www.ieice.org/~nv/symposium/">第 9 回 ネットワーク仮想化シンポジウム</a>（東京 東京大学）
+2019 年 11 月 25 日，　主催：ITRC</li>
+</ul>
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+<a class="2018" name="2018"></a>2018年度 (2018年 10 月 01 日 ～ 2019 年 09 月 30 日)
+<ul>
+ 	<li>
+<a href="https://ricc.itrc.net/events/201909-workshop">第15回 地域間インタークラウドワークショップ</a>（北海道 北海道大学）
+2019 年 9 月 4 日，　主催：RICC</li>
+ 	<li>RICC-NIIワークショップ（長野 国際高等セミナーハウス）
+2019 年 7 月 27 日 ～ 29 日， 主催：RICC</li>
+ 	<li>
+<a href="../meet/45/agenda/index.html">第 45 回 ITRC 研究会</a>　（福岡 九州大学 博多駅オフィス）
+2019 年 5 月 16 日 〜 17 日,　主催：ITRC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/201902-workshop">RICC-PIoT Workshop 2019</a>（沖縄 沖縄産業支援センター）
+2019 年 2 月 27 日〜 28 日,　主催：RICC, PIoT</li>
+ 	<li>
+<a href="../meet/44/agenda/index.html">第 44 回 ITRC 研究会</a> （東京 秋葉原）
+2018 年 11 月 28 日 〜 30 日,　主催：ITRC</li>
+ 	<li>IEICE IA 研究会 （東京 秋葉原）
+2018 年 11 月 28 日,　共催：ITRC</li>
+ 	<li>Internet Conference 2018 （東京 秋葉原）
+2018 年 11 月 26 日 〜 27 日, 主催：ITRC</li>
+</ul>
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+<a class="2017" name="2017"></a>2017 年度 (2017 年 10 月 01 日 ～ 2018 年 09 月 30 日)
+<ul>
+ 	<li>
+<a href="https://ricc.itrc.net/events/201809-workshop">第 14 回 地域間インタークラウドワークショップ</a> (北海道 北海道大学)
+2018 年 09 月 03 日　主催：RICC</li>
+ 	<li>
+<span>Cloud Week 2018@北海道大学</span> ( 北海道 北海道大学)
+2018 年 09 月 03 日 〜 05 日,　共催：ITRC</li>
+ 	<li>
+<a href="../meet/43/report/index.html" rel="nofollow">第 43 回 ITRC 研究会</a>（京都 京都産業大学）
+2018 年 05 月 31 日 - 06 月 01 日, 主催：ITRC</li>
+ 	<li>
+<span>MeWCA シンポジウム 2018</span>（東京 文京シビックホール）
+2018 年 05 月 17 日, 共催：MINX-UAT</li>
+ 	<li>
+<a href="http://www.north.ad.jp/sympo/2015/index.html">第 24 回 NORTH インターネット・シンポジウム 2018</a>（北海道 北海道大学）
+2018 年 03 月 07 日 - 08 日, 後援：MINX-UAT</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/201802-workshop">第 13 回 地域間インタークラウドワークショップ</a>（沖縄 沖縄産業支援センター）
+2018 年 02 月 20 日, 主催：RICC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/RICC-RIEC2017">RICC – RIEC Workshop 2017</a>（宮城 東北大学）
+2017 年 11 月 29 日, 主催：RICC</li>
+ 	<li>
+<span title="リンク先を確認できないため、リンクを解除しています。">第 42 回 ITRC 研究会</span>（熊本 ホテルグリーンピア南阿蘇）
+2017 年 11 月 8 日 - 10 日, 主催：ITRC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+
+<a class="2016" name="2016"></a>2016 年度 (2016 年 10 月 01 日～ 2017 年 09 月 30 日)
+<ul>
+ 	<li>
+<a href="http://www.lsnl.jp/itrc/itrc-nwgn-2017.txt">新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ (ITRC-NWGN 2017)</a> （兵庫 赤穂ハイツ）
+2017 年 09 月 19 日 - 20 日, 主催：NWGN</li>
+ 	<li>
+<span>第 12 回 地域間インタークラウドワークショップ</span>（北海道 北海道大学）
+2017 年 09 月 07 日, 主催：RICC</li>
+ 	<li>
+<span>Cloud Week 2017＠Hokkaido University</span>（北海道 北海道大学）
+2017 年 09 月 05 日 - 07 日, 共催：RICC</li>
+ 	<li>第 4 回 PIOT ワークショップ（長野 国立情報学研究所国際高等セミナーハウス）
+2017 年 08 月 23 日 - 23 日, 主催：PIOT</li>
+ 	<li>
+<a href="http://www.ieice.org/~nv/symposium/">第 7 回 ネットワーク仮想化シンポジウム</a>（東京 東京大学）
+2017 年 08 月 04 日, 主催：NVW</li>
+ 	<li>
+<span>MeWCA シンポジウム 2017</span>（東京 文京シビックホール）
+2017 年 05 月 30 日, 後援：MINX</li>
+ 	<li>
+<span title="リンク先を確認できないため、リンクを解除しています。">第 41 回 ITRC 研究会</span>（東京 筑波大学）
+2017 年 5 月 18 日 - 19 日, 主催：ITRC</li>
+ 	<li>
+<a href="http://ricc.itrc.net/events/201603-workshop">第 11 回 地域間インタークラウドワークショップ</a>（沖縄 那覇市 IT 創造館）
+2017 年 03 月 02 日, 主催：RICC</li>
+ 	<li>
+<a href="http://www.north.ad.jp/sympo/2017/index.html">第 23 回 NORTH インターネット・シンポジウム 2017</a>（北海道 北海道大学）
+2017 年 03 月 02 日 - 03 日, 共催：MINX</li>
+ 	<li>
+<a href="../meet/40/report/index.html">第 40 回 ITRC 研究会</a>（北海道 沼国際セミナーハウス）
+2016 年 11 月 09 日 - 10 日, 主催：ITRC</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2016/">Internet Conference 2016 (IC2016)</a>（東京 京王プラザホテル）
+2016 年 10 月 11 日 - 12 日, 主催：ITRC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+<h4>ITRC4期</h4>
+<a class="2015" name="2015"></a>2015 年度 (2015 年 10 月 01 日 ～ 2016 年 09 月 30 日)
+<ul>
+ 	<li>
+<a href="http://www.lsnl.jp/itrc/itrc-nwgn-2016.txt">新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ (ITRC-NWGN 2016)</a>（和歌山 紀三井寺ガーデンホテルはやし
+2016 年 09 月 05 日 - 06 日, 主催：NWGN</li>
+ 	<li>
+<span>第 6 回 ネットワーク仮想化シンポジウム</span>（東京 東京大学）
+2016 年 09 月 02 日, 主催：NVW</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/201608-workshop">第 10 回 地域間インタークラウドワークショップ</a>（北海道 北海道大学）
+2016 年 08 月 31 日, 主催：RICC</li>
+ 	<li>Cloud Week 2016＠Hokkaido University（北海道 北海道大学）
+2016 年 08 月 29 日 - 31 日, 共催：RICC</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/RICC-RIEC2016">RICC – RIEC ワークショップ 2016</a>（宮城 東北大学）
+2016 年 07 月 25 日, 主催：RICC</li>
+ 	<li>
+<span>MeWCA シンポジウム 2016</span>（東京 文京シビックホール）
+2016 年 05 月 24 日, 後援：MINX</li>
+ 	<li>
+<a href="../meet/39/report/index.html">第 39 回 ITRC 研究会</a>（福岡 九州工業大学）
+2016 年 05 月 12 日 - 14 日, 主催：ITRC</li>
+ 	<li>
+<a href="http://ricc.itrc.net/events/201603-workshop">第 9 回 地域間インタークラウドワークショップ</a>（沖縄 沖縄県市町村自治会）
+2016 年 03 月 01 日, 主催：RICC</li>
+ 	<li>
+<a href="http://www.north.ad.jp/sympo/2016/index.html">第 22 回 NORTH インターネット・シンポジウム 2016</a>（北海道 北海道大学）
+2016 年 02 月 18 日, 共催：MINX</li>
+ 	<li>ITRC PIOT Project キックオフミーティング（京都 京都大学）
+2016 年 02 月 04 日, 主催：ITRC</li>
+ 	<li>
+<a href="../wg/uat/workshop201601/index.html">第 2 回 UAT アクセシビリティワークショップ ～ICT 技術で視覚障害者にどのような合理的な配慮ができるか～</a>（東京 東京工業大学キャンパス・イノベーションセンター）
+2016 年 01 月 16 日, 主催：UAT</li>
+ 	<li>
+<a href="http://www.univ-web.org/nabe/UAI/#UAI77">第 77 回 UAI 研究会</a>（東京 東京女子大学）
+2016 年 01 月 09 日, 主催：UAT</li>
+ 	<li>
+<a href="../meet/38/report/index.html">第 38 回 ITRC 研究会</a>（千葉 成田ビューホテル）
+2015 年 11 月 10 日 - 13 日, 主催：ITRC</li>
+ 	<li>
+<a href="../project/aitjs/about/index.html">Asia Internet Technology Joint Symposium</a>（千葉 成田ビューホテル）
+2015 年 11 月 10 日 - 13 日, 主催：ITRC</li>
+ 	<li>
+<a href="http://www.univ-web.org/nabe/UAI/#UAI76">第 76 回 UAI 研究会</a>（東京 東京女子大学）
+2015 年 11 月 07 日, 主催：UAT</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2015/">インターネットコンファレンス 2015 (IC2015)</a>（兵庫 サンパル）
+2015 年 10 月 13 日 - 14 日, 主催：ITRC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+
+<a class="2014" name="2014"></a>2014 年度 (2014 年 10 月 01 日～ 2015 年 09 月 30 日)
+<ul style="list-style-type: disc;">
+ 	<li>
+<a href="http://www.lsnl.jp/itrc/itrc-nwgn-2015.txt">新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ 2015</a>（兵庫 みのたにグリーンスポーツホテル）
+2015 年 09 月 14 日 - 15 日   主催：NWGN</li>
+ 	<li>
+<a href="https://ricc.itrc.net/events/201509-workshop">第 8 回 地域間インタークラウドワークショップ</a>（北海道 北海道大学）
+2015 年 09 月 09 日   主催：RICC</li>
+ 	<li>Cloud Week 2015＠Hokkaido University（北海道 北海道大学）
+2015 年 09 月 07 日 - 09 日   共催：RICC</li>
+ 	<li>
+<a href="http://www.ieice.org/~nv/symposium/">第 5 回 ネットワーク仮想化シンポジウム</a>（東京 東京大学）
+2015 年 08 月 28 日   主催：NVW</li>
+ 	<li>
+<a href="http://www.univ-web.org/nabe/UAI/#UAI75">第 75 回 UAI 研究会</a>（東京 東京女子大学）
+2015 年 07 月 18 日   主催：UAT</li>
+ 	<li>
+<a href="../meet/37/report/index.html">第 37 回 ITRC 研究会</a>（富山 インテック）
+2015 年 05 月 28 日 - 29 日   主催：ITRC</li>
+ 	<li>
+<span>MeWCA シンポジウム 2015</span>（東京 文京シビックホール）
+2015 年 05 月 19 日   後援：MINX</li>
+ 	<li>
+<a href="http://www.north.ad.jp/sympo/2015/index.html">第 21 回 NORTH インターネット・シンポジウム 2015</a>（北海道 北海道大学）
+2015 年 02 月 26 日 - 27 日   共催：MINX</li>
+ 	<li>
+<a href="http://ricc.itrc.net/events/201502-workshop">第 7 回 地域間インタークラウドワークショップ</a>（沖縄 那覇市IT創造館）
+2015 年 02 月 26 日 - 27 日   主催：RICC</li>
+ 	<li>
+<a href="../wg/uat/workshop201502/index.html">第 1 回 UAT アクセシビリティワークショップ ～スマホの視覚障害者向けアクセシビリティについて～</a>（東京 東京工業大学キャンパス・イノベーションセンター）
+2015 年 02 月 24 日   主催：UAT</li>
+ 	<li>
+<a href="https://www.univ-web.org/nabe/UAI/old_program/uai2013.html#UAI74">第 74 回 UAI 研究会</a> (東京 東京女子大学)
+2015 年 01 月 10 日</li>
+ 	<li>
+<a href="../meet/36/report/index.html">第 36 回 ITRC 研究会</a>（鳥取: 倉吉市国民宿舎クリーンスコーレせきがね）
+2014 年 11 月 25 日 - 27 日   主催：ITRC</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2014/">インターネットコンファレンス 2014 (IC2014)</a>（広島 アステールプラザ）
+2014 年 11 月 04 日 - 05 日   主催：ITRC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+
+<a class="2013" name="2013"></a>2013 年度 (2013 年 10 月 01 日 ～ 2014 年 09 月 30 日)
+<ul style="list-style-type: disc;">
+ 	<li>
+<a href="http://ricc.itrc.net/events/201409-workshop">第 6 回 地域間インタークラウドワークショップ</a>（北海道 北海道大学)
+2014 年 09 月 03 日   主催：RICC</li>
+ 	<li>Cloud Week 2014＠Hokkaido University（北海道 北海道大学)
+2014 年 09 月 01 日 - 04 日   共催：RICC</li>
+ 	<li>新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ 2014（兵庫 赤穂ハイツ）
+2014 年 08 月 27 日 - 28 日   主催：NWGN</li>
+ 	<li>
+<span>第 4 回 ネットワーク仮想化シンポジウム</span>（東京 東京大学）
+2014 年 07 月 31 日   主催：NVW</li>
+ 	<li>
+<a href="http://cfi2014.wide.ad.jp/">The 9th International Conference on Future Internet Technologies</a>（東京 東京大学)
+2014 年 06 月 18 日 - 20 日   共催：ITRC</li>
+ 	<li>
+<a href="../meet/35/report/index.html">第 35 回 ITRC 研究会</a>（東京 東京大学）
+2014年6月17日-18日   主催：ITRC</li>
+ 	<li>
+<a href="http://ricc.itrc.net/events/201405-workshop">第 5 回 地域間インタークラウドワークショップ</a>（高知 高知工科大学)
+2014 年 05 月 28 日   主催：RICC</li>
+ 	<li>
+<span>MeWCA シンポジウム 2014</span>（東京 文京シビックホール）
+2014 年 05 月 15 日   後援：MINX</li>
+ 	<li>
+<a href="http://ricc.itrc.net/events/201403-workshop">第 4 回 地域間インタークラウドワークショップ</a>（沖縄 おきでんふれあいほーる）
+2014 年 03 月 27 日 - 28 日   主催：RICC</li>
+ 	<li>
+<a href="http://www.north.ad.jp/sympo/2014/index.html">第 20 回 NORTH インターネットシンポジウム 2014</a>（北海道 北海道大学）
+2014 年 02 月 18 日 - 19 日   共催：MINX</li>
+ 	<li>
+<a href="http://www.scj.go.jp/ja/event/pdf2/176-s-3-4.pdf">日本学術会議公開シンポジウム「ICT を生かした社会デザインと人材育成(実践編)」</a>（東京 日本学術会議講堂）
+2013 年 11 月 27 日   後援：ITRC</li>
+ 	<li>
+<a href="http://ricc.itrc.net/events/RICC-NII2013">RICC - NII ワークショップ 2013</a>（東京 国立情報学研究所）
+2013 年 11 月 25 日   主催：RICC</li>
+ 	<li>
+<span>情報メディア教育研究センターセミナー「正しく怖がるインターネット～親子で学ぶ情報モラル～」</span> (広島 広島大学情報メディア教育研究センター)
+2013 年 11 月 02 日</li>
+ 	<li>
+<span>電子情報通信学会 IA 研究会 (2013 年度第 5 回)</span>（広島 グランドプリンスホテル広島）
+2013 年 11 月 01 日   共催：ITRC</li>
+ 	<li>
+<a href="../meet/34/report/index.html">第 34 回 ITRC 研究会</a>（広島 グランドプリンスホテル広島）
+2013 年 10 月 30 日 - 11 月 01 日   主催：ITRC</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2013/">インターネットコンファレンス 2013 (IC2013)</a>（東京 慶應大学）
+2013 年 10 月 25 日   主催：ITRC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+
+<a class="2012" name="2012"></a>2012 年度 (2012 年 10 月 01 日 ～ 2013 年 09 月 30 日)
+<ul style="list-style-type: disc;">
+ 	<li class="report">新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ 2013（和歌山 紀三井寺ガーデンホテルはやし）
+2013 年 09 月 05 日 - 06 日   主催：NWGN</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<span>第 3 回 ネットワーク仮想化シンポジウム</span>（東京 東京大学）
+2013 年 09 月 06 日   主催：NVW</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="http://ricc.itrc.net/events/201309-workshop">第 3 回 地域間インタークラウドワークショップ</a>（北海道 北海道大学）
+2013 年 09 月 05 日   主催：RICC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">Cloud Week 2013＠Hokkaido University（北海道 北海道大学）
+2013 年 09 月 03 日 - 05 日   共催：RICC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="../project/rsfiat/about-rsfiat/index.html">The Research Symposium on Future Internet Architecture and Technologies</a>（京都 Kyoto TERRASA）
+2013 年 07 月 26 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="../meet/33/report/index.html">第 33 回 ITRC 研究会</a>（大阪 グランフロント大阪）
+2013 年 05 月 23 日 - 24 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="http://ricc.itrc.net/events/201305-workshop">第 2 回 地域間インタークラウドワークショップ</a>（石川 金沢大学）
+2013 年 05 月 07 日   主催：RICC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">ITRC セミナー / INI 仙台 2013 冬（宮城 東北大学）
+2013 年 03 月15日   主催：INI</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="http://www.north.ad.jp/sympo/2013/index.html">第 19 回 NORTH インターネットシンポジウム 2013</a>（北海道 北海道大学）
+2013 年 02 月 27 日   共催：MINX</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">ITRC セミナー / INI 仙台 2012 秋（宮城 東北大学）
+2012 年 12 月 25 日   主催：INI</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="../meet/32/report/index.html">第 32 回 ITRC 研究会</a>（福島 かんぼの宿いわき）
+2012 年 11 月 19 日 - 21 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="https://www.internetconference.org/ic2012/">インターネットコンファレンス 2012 (IC2012)</a>（富山 富山国際会議場）
+2012 年 11 月 15 日 - 16 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="http://ricc.itrc.net/events/201211-workshop">第 1 回 地域間クラウドワークショップ</a>（佐賀 佐賀大学）
+2012 年 11 月 02 日   主催：RICC</li>
+</ul>
+</div>
+</div>
+
+<div markdown="0">
+<p class="comment_under"><a href="index.html#page_top">ページの先頭へ</a></p>
+</div>
+
+<div markdown="0">
+<div class="report">
+
+<a class="2011" name="2011"></a>2011 年度 (2011 年 10 月 01 日 ～ 2012 年 09 月 30 日)
+<ul style="list-style-type: disc;">
+ 	<li class="report">新世代ネットワーク構築のための基盤技術分科会 (NWGN) ワークショップ 2012（兵庫 赤穂ハイツ）
+2012 年 09 月 05 日 - 06 日   主催：NWGN</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<span>Cloud Week 2012＠Hokkaido University ～クラウド技術の最先端を探る～</span>（北海道 北海道大学）
+2012 年 08 月 28 日 - 30 日   主催：RICC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<span>第 2 回 ネットワーク仮想化シンポジウム</span>（京都 京都大学）
+2012 年 08 月 24 日   主催：NVW</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<span>AsiaFI 2012 (Asian Network Symposium 2012)</span>（京都 京都大学）
+2012 年 08 月 19 日 - 24 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="../meet/31/report/index.html">第 31 回 ITRC 研究会</a>（東京 東京大学）
+2012 年 05 月 24 日 - 25 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">JAMINA セミナー 2012（東京 文京シビックホール）
+2012 年 04 月 17 日   共催：MINX</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">ITRC セミナー / INI 仙台 2012 冬（宮城 東北大学）
+2012 年 02 月 27 日   主催：INI</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="http://www.north.ad.jp/sympo/2012/sympo2012-program.pdf">第 18 回 NORTH インターネットシンポジウム 2012</a>（北海道 北海道大学）
+2012 年 02 月 23 日   共催：MINX</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="https://ricc.itrc.net/events/201202-acws2012hiro">アカデミッククラウドワークショップ 2012</a>（広島 ひろしま国際ホテル）
+2012 年 02 月 08 日   主催：RICC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">ITRC セミナー / INI 仙台 2011 秋（宮城 東北大学）
+2011 年 12 月 16 日   主催：INI</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">第 52 回ネットワーク先端技術フォーラム (北海道 札幌医科大学 記念ホール)
+2011 年 12 月 13 日</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="../meet/30/report/index.html">第 30 回 ITRC 研究会 (ITRC 15周年記念シンポジウム)</a>（北海道 グリーンピア大沼）
+2011 年 11 月 28 日 - 30 日   主催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<span>電子情報通信学会 IA 研究会 (2011 年度第 4 回)</span>（北海道 グリーンピア大沼）
+2011 年 11 月 28 日 - 29 日   共催：ITRC</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li class="report">
+<a href="https://www.internetconference.org/ic2011/">インターネットコンファレンス 2011 (IC2011)</a>（福岡県 九州産業大学）
+2011 年 10 月 27 日 - 28 日   主催：ITRC</li>
+</ul>
+<a href="index.html#page_top">ページの先頭へ</a>
+<h4 style="text-align: left;">ITRC3期</h4>
+<a class="2010" name="2010"></a>2010 年度 (2010 年 10 月 01 日 ～ 2011 年 09 月 30 日)
+<ul>
+ 	<li>新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ <span style="font-weight: 400;">(ITRC-NWGN 2011)</span> (兵庫 みのたにグリーンスポーツ ホテル)
+2011 年 09 月 26 日 〜 27 日</li>
+ 	<li>
+<span>第 1 回 ネットワーク仮想化シンポジウム</span> (東京 東京大学)
+2011 年 09 月 10 日</li>
+ 	<li>
+<a href="../meet/29/report/index.html">第 29 回 ITRC 研究会</a> (東京 東京工業大学)
+2011 年 05 月 23 日 〜 24日</li>
+ 	<li>情報流通基盤分科会ワークショップ (宮城 東北大学サイバーサイエンスセンター)
+2011 年 03 月 18 日</li>
+ 	<li>
+<span>第 17 回 NORTH インターネット・シンポジウム 2011</span> (北海道 札幌医科大学)
+2011 年 03 月 07 日</li>
+ 	<li>
+<span>RIBB Final Workshop</span> (富山 INTEC本社)
+2011 年 01 月 07 日</li>
+ 	<li>
+<a href="../meet/28/report/index.html">第 28 回 ITRC 研究会</a> (山梨 清里 清泉寮 新館 )
+2010 年 11 月 24 日 〜 26 日</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2010/">インターネットコンファレンス 2010 (IC2010)</a> (東京 東京大学弥生講堂一条ホール )
+2010 年 10 月 25 日 〜 26 日</li>
+ 	<li>ITRC / INI 「情報流通基盤分科会ワークショップ」 (宮城 東北大学サイバーサイエンスセンター)
+2010 年 10 月 13 日</li>
+</ul>
+<a href="index.html#page_top">ページの先頭へ</a>
+
+<a class="2009" name="2009"></a>2009 年度 (2009 年 10 月 01 日 ～ 2010 年 09 月 30 日)
+<ul>
+ 	<li>新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ <span style="font-weight: 400;">(ITRC-NWGN 2010)</span> (和歌山 紀三井寺ガーデンホテルはやし)
+2010 年 09 月 09 日 〜 10日</li>
+ 	<li>
+<span>規格の策定者が解説する JIS X 8341-3:2010</span> (東京 東京女子大学)
+2010 年 09 月 02 日</li>
+ 	<li>
+<span>AsiaFI 2010 Summer School</span> ( 神奈川 慶応義塾大学 日吉キャンパス 協生館)
+2010 年 08 月 24 日 〜 27 日</li>
+ 	<li>12th APNG summer camp (広島 リーガロイヤルホテル広島)
+2010 年 07 月 12 日 〜 15 日</li>
+ 	<li>
+<a href="../meet/27/report/index.html">第 27 回 ITRC 研究会 </a>(東京 独立行政法人 情報通信研究機構 本部 5F )
+2010 年 05 月 20 日 〜 21日</li>
+ 	<li>第 16 回 NORTH インターネット・シンポジウム 2010 (北海道 札幌医科大学記念ホール)
+2010 年 03 月 19 日</li>
+ 	<li>
+<a href="../meet/26/agenda/index.html">第 26 回 ITRC 研究会</a> (佐賀 唐津シーサイドホテル)
+2009 年 11 月 25 日 〜 27 日</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2009/">インターネットコンファレンス 2009 (IC2009)</a> (京都 京都大学 百周年時計台記念館)
+2009 年 10 月 26 日 〜 27 日</li>
+ 	<li>「先端的ネットワーク＆コンピューティングテクノロジワークショップ」ITRC / INI「情報流通基盤分科会ワークショップ」 (宮城 東北大学サイバーサイエンスセンター)
+2009 年 10 月 16 日</li>
+</ul>
+<a href="index.html#page_top">ページの先頭へ</a>
+
+<a class="2008" name="2008"></a>2008 年度 (2008 年 10 月 01 日 ～ 2009 年 09 月 30 日)
+<ul>
+ 	<li>新世代ネットワーク構築のための基盤技術研究分科会 (NWGN) ワークショップ <span style="font-weight: 400;">(ITRC-NWGN 2009)</span> (滋賀 白浜荘)
+2009 年 09 月 24 日 〜 25 日</li>
+ 	<li>
+<span>UPKI オープンドメイン証明書自動発行検証プロジェクト参加説明会</span> (NII, 名古屋大学, 京都大学)
+2009 年 06 月 19 日</li>
+ 	<li>
+<span>The 7th International Workshop on Protocols for Future, Large-Scale and Diverse Network Transports: PFLDNet 2009</span> (東京 秋葉原ダイビル)
+2009 年 05 月 21 日 〜 22日</li>
+ 	<li>
+<a href="../meet/25/report/index.html">第25回ITRC研究会</a> (東京 秋葉原コンベンションセンター 5F)
+2009 年 05 月 21 日 〜 22日</li>
+ 	<li>
+<a href="http://trac.tools.ietf.org/group/irtf/trac/wiki/AgendaMay09">ICCRG</a> (東京 秋葉原ダイビル)
+2009 年 05 月 20 日</li>
+ 	<li>
+<span>JAMINAセミナー 2009</span> (東京 文京シビックセンター)
+2009 年 04 月 21 日</li>
+ 	<li>
+<a href="http://www.jp.apan.net/hi-symposium/">International Symposium on Operational, Technological and Research Developments toward New Generation Network</a> (東京、福岡)
+2009 年 02 月 27 日 〜 28 日</li>
+ 	<li>情報流通基盤分科会ワークショップ (宮城 東北大学サイバーサイエンスセンター)
+2009 年 02 月 25 日</li>
+ 	<li>
+<span>ITRC / RIBB 特別シンポジウム「インターネットと地域情報化」</span> (東京 東京大学)
+2009 年 02 月 16 日</li>
+ 	<li>
+<a href="http://www.ieice.org/~wit/program/2008_12-no45.html">「オープンソースソフトウェアと Web アクセシビリティ」</a> (東京 産総研臨海副都心センター)
+2008 年 12 月 04 日</li>
+ 	<li>
+<span>ヒューマンインタフェース学会 第 4 回 SIGACI 研究談話会 / 第 30 回 UAI 研究会</span> (東京 西新宿 (株)ミツエイリンクス)
+2008 年 11 月 15 日</li>
+ 	<li>
+<a href="../meet/24/report/index.html">第 24 回 ITRC 研究会</a> (富山 立山国際ホテル)
+2008 年 11 月 05 日 〜 07 日</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2008/">インターネットコンファレンス 2008 (IC2008)</a> (沖縄 (独)情報通信機構沖縄亜熱帯計測技術センター)
+2008 年 10 月 23 日 〜 24日</li>
+</ul>
+<a href="index.html#page_top">ページの先頭へ</a>
+
+<a class="2007" name="2007"></a>2007 年度 (2007 年 10 月 01 日 ～ 2008 年 09 月 30 日)
+<ul>
+ 	<li>
+<a href="http://www.ispl.jp/ngn/itrc-ngn-2008.txt">次世代ネットワーク構築のための基盤技術研究分科会 (NGN) ワークショップ (ITRC-NGN 2008)</a> (三重 ウェルハートピア長島)
+2008 年 09 月 24 日 〜 25 日</li>
+ 	<li>
+<span>地域ネットワーク連携シンポジウム 2008 in 山梨</span> (山梨 富士 Calm)
+2008 年 09 月 05 日</li>
+ 	<li>
+<a href="../meet/23/report/index.html">第 23 回 ITRC 研究会</a> (愛知 名古屋大学)
+2008 年 05 月 15 日 〜 16 日</li>
+ 	<li>
+<span>Web アクセシビリティ@名古屋</span> (愛知 名古屋大学)
+2008 年 05 月 15 日</li>
+ 	<li>
+<span>JAMINA セミナー 2008</span> (東京 文京シビックセンター)
+2008 年 04 月 25 日</li>
+ 	<li>第5回「先端的ネットワーク＆コンピューティングテクノロジワークショップ」 (宮城 東北大学)
+2008 年 03 月 13 日</li>
+ 	<li>
+<a href="../o/symposium/2008/index.html">2007 年度 ITRC 総会・シンポジウム</a> (東京 秋葉原ダイビル)
+2008 年 01 月 16 日</li>
+ 	<li>
+<span>『Web アクセシビリティ』出版記念セミナー（第2回）</span> (東京 (株)ミツエーリンクス・セミナールーム)
+2007 年 12 月 20 日</li>
+ 	<li>
+<span>Internet Week 2007 地域ネットワーク BoF</span> (東京 秋葉原コンベンションホール)
+2007 年 11 月 21 日</li>
+ 	<li>
+<a href="../meet/22/report/index.html">第 22 回 ITRC 研究会</a> (和歌山 ホテルシーモア)
+2007 年 11 月 07 日 〜 09日</li>
+ 	<li>
+<span>『Web アクセシビリティ』出版記念セミナー</span> (東京 (株)ミツエーリンクス・セミナールーム)
+2007 年 11 月 09 日</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2007/">インターネットコンファレンス 2007 (IC2007)</a> (福岡 福岡ソフトリサーチパークビル)
+2007 年 10 月 25 日 〜 26 日</li>
+</ul>
+<a href="index.html#page_top">ページの先頭へ</a>
+
+<a class="2006" name="2006"></a>2006 年度 (2006 年 10 月 01 日 ～ 2007 年 09 月 30 日)
+<ul>
+ 	<li>
+<span>地域ネットワーク連携シンポジウム 2007 in 別府</span> (大分 B-con プラザ (別府コンベンションセンター) 中会議室)
+2007 年 09 月 14 日</li>
+ 	<li>
+<a href="http://www.ispl.jp/ngn/itrc-ngn-2007.txt">次世代ネットワーク構築のための基盤技術研究分科会 (NGN) ワークショップ (ITRC-NGN 2007)</a> (兵庫 神戸セミナーハウス)
+2007 年 08 月 29 日 〜 30 日</li>
+ 	<li>
+<a href="../meet/21/report/index.html">第 21 回 ITRC 研究会</a> (東京 国立情報学研究所)
+2007 年 05 月 29 日 〜 31 日</li>
+ 	<li>
+<span>UAI アクセシビリティセミナー：一歩進んだ Web アクセシビリティ</span> (東京 国立情報学研究所)
+2007 年 05 月 31 日</li>
+ 	<li>
+<span title="リンク先を確認できないため、リンクを解除しています。">JAMINA セミナー</span> (東京 文京シビックホール)
+2007 年 04 月 20 日</li>
+ 	<li>情報流通基盤分科会ワークショップ (宮城 東北大学情報シナジーセンター本館５階 講義室)
+2007 年 03 月 01 日</li>
+ 	<li>山梨地域情報化シンポジウム - 産官連携による地域情報化 - (山梨 ベルクラシック甲府)
+2007 年 02 月 16 日</li>
+ 	<li>
+<a href="../o/symposium/2007/index.html">2007 年 ITRC 総会・シンポジウム</a> (広島 広島国際会議場)
+2007 年 01 月 16 日</li>
+ 	<li>
+<a href="http://overlay-sympo.nict.go.jp/">オーバーレイネットワーク・シンポジウム及びワークショップ</a> (東京 東京大学)
+2006 年 12 月 08 日 〜 09 日</li>
+ 	<li>
+<span>Internet Week 2006 地域ネットワーク BoF</span> (神奈川 パシフィコ横浜会議センター)
+2006 年 12 月 06 日</li>
+ 	<li>情報アクセシビリティ国際標準化セミナー2006 (東京 四ツ谷)
+2006 年 11 月 27 日</li>
+ 	<li>
+<a href="https://www.internetconference.org/ic2006/">インターネットコンファレンス 2006 (IC2006)</a> (東京 東京工業大学 大岡山キャンパス)
+2006 年 10 月 23 日 〜 24 日</li>
+ 	<li>
+<a href="../meet/20/report/index.html">第 20 回 ITRC 研究会</a> (福岡 福岡ソフトリサーチパーク)
+2006 年 10 月 04 日 〜 06 日</li>
+</ul>
+<a href="index.html#page_top">ページの先頭へ</a>
+<h4>ITRC2期</h4>
+<a class="2005" name="2005"></a>2005 年度 (2005 年 10 月 01 日 ～ 2006 年 09 月 30 日)
+<ul>
+ 	<li>
+<a href="http://www.ispl.jp/ngn/itrc-ngn-2006.txt">次世代ネットワーク構築のための基盤技術研究分科会 (NGN) ワークショップ (ITRC-NGN 2006)</a> (大阪 グリーンビレッジ交野)
+2006 年 09 月 26 日 〜 27 日</li>
+ 	<li>
+<span>地域ネットワーク連携シンポジウム 2006 in 帯広</span> (北海道 帯広東急イン, 帯広商工会議所)
+2006 年 09 月 21 日 〜 22 日</li>
+ 	<li>
+<a href="../meet/19/report/index.html">第 19 回 ITRC 研究会</a> (京都 キャンパスプラザ京都)
+2006 年 05 月 24 日 〜 26 日</li>
+ 	<li>
+<span>IA/QAI 合同研究会</span> (京都 キャンパスプラザ京都)
+2006 年 05 月 24 日</li>
+</ul>
+</div>
+</div>

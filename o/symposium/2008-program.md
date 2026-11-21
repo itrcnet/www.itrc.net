@@ -1,0 +1,77 @@
+---
+layout: page
+title: ITRC sympo2008 プログラム
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/o/symposium/2008-program/index.html"
+---
+
+## 1 月 16 日 (水)
+
+<div markdown="0">
+<table>
+  <tr><th colspan="3"></th></tr>
+  <tr>
+    <td rowspan="2">13:30 - 15:00</td>
+    <td colspan="2">総会 (ITRC委員の方のみ参加可能です。)</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+	<li>報告事項</li>
+	<li>審議事項</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td colspan="2">休憩</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">15:30 - 18:00 </td>
+    <td colspan="2">公開シンポジウム</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <ul>
+	<li>15:30 - 16:30
+	  <dl>
+	    <dt>特別講演: 下條真司 (大阪大学/NICT)</dt>
+	    <dd>
+<a href="../../../contents/symposium/2008/shimojo.pdf">「ネットワーク研究開発の新たなる展開」</a> (PDF,10.2MB)</dd>
+	  </dl>
+</li>
+	<li>16:30 - 18:00
+	  <dl>
+	    <dt>パネル討論: ITRC の今まで 12 年、インターネットの今後 12 年</dt>
+	    <dd>パネリスト (予定)
+	      <ul>
+		<li>
+		</li>
+<li>宮原秀夫 (情報通信研究機構 理事長、ITRC 第 1 期委員長)</li>
+		<li>関口智嗣 (産業技術総合研究所)</li>
+		<li>尾家祐二 (九州工業大学、ITRC 第 2 期委員長)</li>
+		<li>下條真司 (大阪大学、ITRC 第 3 期委員長)</li>
+		<li>辰巳治之 (札幌医大、医療情報ネットワーク相互接続分科会主査)</li>
+		<li>他</li>
+	      </ul>
+	  </dd>
+</dl>
+    </li>
+</ul>
+</td>
+  </tr>
+  <tr>
+    <td>18:00 - 20:00</td>
+    <td>懇親会</td>
+    <td>詳細は未定です。</td>
+  </tr>
+</table>
+</div>
+
+## 問い合わせ
+
+本研究会に関しての問い合せは、電子メールで受け付けています。2007 年度インターネット技術第 163 委員会総会・シンポジウムまでお願いします。

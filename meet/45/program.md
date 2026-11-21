@@ -1,0 +1,177 @@
+---
+layout: page
+title: meet45 program
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/45/program/index.html"
+---
+
+ITRC meet45 プログラムの詳細です。運営委員会のみ JR 博多シティ 9F 会議室、そのほかの研究会および総会は 10F の大会議室での開催となります。
+
+## 1 日目 (2019 年 5 月 16 日 (木))
+
+<div markdown="0">
+<table style="height: 426px; width: 1180px; border-color: #000000;" border="3">
+<tbody>
+<tr style="height: 32px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 32px;">11:00 〜 12:20</td>
+<td style="border-color: #000000; vertical-align: top; height: 32px; width: 1046px;" colspan="2">受付、12:00 〜運営委員会</td>
+</tr>
+<tr style="height: 32px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 32px;">12:20 〜 12:30</td>
+<td style="border-color: #000000; vertical-align: top; height: 32px; width: 1046px;" colspan="2">オープニング</td>
+</tr>
+<tr style="height: 194px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 194px;">12:30 〜 14:00</td>
+<td style="border-color: #000000; vertical-align: top; height: 194px; width: 1046px;" colspan="2">
+<strong>PC 企画セッション：セキュリティ・ネットワーク技術教育の現状と期待</strong>
+<ol>
+ 	<li>曽根 秀昭 (東北大学): 大学連携による 実践的セキュリティ人材育成の紹介
+<div>学部生向けセキュリティ分野の実践的スキルの基礎を扱うBasic SecCapカリキュラムを14の大学が協同で開講して，大学間で遠隔講義や集中講義（演習）を相互に提供することにより多様な学生の中での実践的な人材育成に取り組んでいる。多数のPBL演習により多様な経験の機会を提供してセキュリティ人材輩出の要請に対応しつつ，高度な内容を扱う先進演習科目によりレベルと内容を多様化している。この活動を紹介する。
+</div>
+</li>
+ 	<li>小出 洋 (九州大学): ProSec-ITにおける産学官が連携する社会人エンジニア向けサイバーセキュリティ教育
+<div>九州大学におけるenPiT-Pro教育プログラムであるProSec-ITの実践事例について紹介する．また日本国内のサイバーセキュリティ教育全体におけるenPiT-Proの位置づけと今後の将来展望について議論する．
+</div>
+</li>
+ 	<li>谷崎 文義 (ASCC2019 ネットワークチーム): カンファレンスネットワークと人材育成
+<div>福岡市で 2015 年 3 月に行われた APRICOT-APAN2015 において、開催期間中に来場者が利用する無線 LAN ネットワークを社会人と学生のボランタリーチームで構築したが、このときの取り組みについて紹介する。また、この取り組みに前後して行われた人材育成関連の取り組みや、2019 年 6 月に北九州市で行われる国際学会でのカンファレンスネットワーク構築の取り組みについて紹介する。</div>
+</li>
+</ol>
+</td>
+</tr>
+<tr style="height: 32px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 32px;">14:00 〜 14:10</td>
+<td style="border-color: #000000; vertical-align: top; height: 32px; width: 1046px;" colspan="2">休憩</td>
+</tr>
+<tr style="height: 32px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 32px;">14:00 〜 14:50</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px; height: 32px;" colspan="2"><span style="font-weight: 600;">デモ紹介・展示</span></td>
+</tr>
+<tr style="height: 24px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 24px;">14:50 ～ 16:20</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px; height: 24px;" colspan="2">医療情報ネットワーク連携分科会(MINX)
+主査：辰巳 治之 (札幌医科大学)
+<ol>
+ 	<li>藤野雄一 (公立はこだて未来大学): 医療におけるAIと知財
+<div>少子高齢化が進展している日本では，高齢者医療対策，僻地医療，過疎地医療対策に加え，高度診断支援技術，iPS 技術などの次世代治療，診断支援技術の開発が技術立国として重要である．我々技術者には，この課題を iPS ベース医療，AI ベースの先進医療，ネットワーク (NW) 医療技術を用いて解決することが期待されている．本講演では，少子高齢化を迎えた日本での医療・介護・ヘルスケア現場におけるAIベース医療とその知的財産に関する状況を報告する．</div>
+</li>
+ 	<li>辰巳治之 (札幌医科大学大学院): Internet Technology Research Committee（ITRC)と情報薬
+<div>人類の脳の延長線上として、コミュニケーションツールや外部記憶装置、各ネットワークを繋ぐ技術 (Internet Technology) が発達して、現在のインターネットを形成しつつある。そして、将来、Singular Point を迎え、究極の自律分散ネットワーク、人工知能を超えた、超ネットワークが、「心」を持つのではないかとも囁かれている。その時代になると、漸く「情報薬」が理解され世に貢献できるのではないかと、未来予測をしながらその開発と応用に取り組んでいる。</div>
+</li>
+</ol>
+</td>
+</tr>
+<tr style="height: 24px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 24px;">16:20 ～ 16:30</td>
+<td style="border-color: #000000; vertical-align: top; height: 24px; width: 1046px;" colspan="2">休憩</td>
+</tr>
+<tr style="height: 24px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 24px;">16:30 〜 18:00</td>
+<td style="border-color: #000000; vertical-align: top; height: 24px; width: 1046px;" colspan="2">地域間インタークラウド分科会(RICC)
+主査：柏崎礼生 (NII/大阪大学)
+<ol>
+ 	<li>柏崎礼生 (NII/大阪大学) : RICC update Apr. 2019
+<div>最初に 5 分で RICC の紹介と 2018 年度のアップデート、2019 年度の展望について述べる。</div>
+</li>
+ 	<li>松本亮介 (さくらインターネット研究所) : 超個体型データセンターOSとコンテナランタイム
+<div>クラウド時代の一極集中構造は限界に達している．さくらインターネット研究所では，エッジ・コンピューティングによる半集中の階層構造を利用しつつもさらに分散化が進み、あらゆるデバイスや場所にデータセンター的な機能が溶け込んでいくと考えている．しかし、各コンピューティングは独立した個体として機能しながらも、総体としては統率されているように見え、小・中規模データセンターがハブとなって、結果的に全体がうまく繋がれ構成されていくことになる。その様は分散された個体と集中する各個体が群体を成しており「超個体的」と言うべきものである。各コンピューティングが自律的に分散と集中のハイブリッド構造をとるような環境を「超個体型のデータセンター」とし、その展望と取り組みについて紹介する。</div>
+</li>
+ 	<li>柏崎礼生 (NII/大阪大学) : 広域分散システムの耐障害性を網羅的かつ定量的に評価するための SDN-FIT システムの提案
+<div>RICC は 2014 年から SDN を用いて意図的に障害を起こすことによるレジリエンスの評価手法に関する研究開発を推進してきた。提案手法は多様な障害を発生させることができる一方、評価指標の確立が課題として残った。本発表では発生させる障害を限定させるかわりに、広域分散システムを構成するトポロジにおいて網羅的な Failure Injection testing (FIT) の設計と実装、その評価について述べる。</div>
+</li>
+</ol>
+</td>
+</tr>
+<tr style="height: 32px;">
+<td style="border-color: #000000; vertical-align: top; width: 122px; height: 32px;">18:30 〜</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px; height: 32px;" colspan="2">情報交換会（会場などは調整中、参加費 5,000 円程度）</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## 2 日目 (2019 年 5 月 17 日 (金))
+
+<div markdown="0">
+<table style="height: 1097px; width: 1170px; border-color: #000000;" border="3">
+<tbody>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">9:20 〜</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px;" colspan="2">受付</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 186px;">09:40 ～ 11:10</td>
+<td style="border-color: #000000; vertical-align: top; height: 186px;" colspan="2">キャンパス情報システム分科会(CIS)
+主査：岡部 寿男 (京都大学)
+<ol>
+ 	<li>山地一禎 (国立情報学研究所):オープンサイエンスと研究データマネジメントに関する情報共有の場
+<div>オープンサイエンスとは、論文だけでなく研究データを含む研究成果の積極的な公開を通じて、その再利用や分野横断型研究への発展を促進しようとする新しい研究のスタイルのことを指す。研究成果の再現性や透明性が確保されることから、研究公正の見地からも意義がある。内閣府や文部科学省などにおける議論を受けて、公的研究資金の配分機関においても、研究データの扱いに関する新しいポリシーの策定が進められている。</div>
+<div>研究者が積極的に研究データを公開していくためには、日常からの適切な研究データのマネジメントが不可欠となる。それを支援するためのIT基盤も必要になってくる。単に、ストレージを用意するだけでは不十分である。研究の促進と公正を両立する研究データマネジメントシステムでなければならない。先端的なクラウドや認証技術とも密接に関係してくる。</div>
+<div>オープンサイエンスや研究データマネジメントを進めていくことは、これまでになかった新しい大学情報システムを考えていく転機になる。新しいシステムの研究開発や導入の実績を重ねるだけではなく、研究データ管理というリテラシーやデータ駆動型研究スタイルの導入支援にも展開される。情報基盤センターとしての役割を、大きく変容させる可能性を備えた領域であるといえる。</div>
+<div>こうした取り組みに関する情報共有の場として、情報処理学会では、2019年度から「オープンサイエンスと研究データマネジメント（RDM）研究グループ」を設置した。本発表では、オープンサイエンスや研究データマネジメントに関する最近の動向を紹介するとともに、新設されたRDM研究グループの今後の活動について紹介する。</div>
+</li>
+ 	<li>松本直樹 (京都大学), 丸山 伸 (株式会社シー・オー・コンヴ): 高負荷環境にも対応する TFTPサーバの実装
+<div>同一環境・同一構成 の端末を大量に運用したい現場 (例えば端末教室等) においてネットブートが広く使われている。</div>
+<div>ネットブートにおいては端末起動直後のブートローダの配信に、いまも TFTPプロトコルが広く利用されている。</div>
+<div>このTFTPプロトコルの歴史は古く、「端末数は少なく、サーバへの負荷は低い」「各端末が数KB程度のブートローダ1つを転送する」「BIOS環境の端末」といった当時の環境を想定して設計されており、その後ほとんど更新・拡張されていない。</div>
+<div>一方、最近の端末教室においては、「ブートメニューの各項目を表す多数の画像を転送する」「Linux KernelやInitrd といった 100MB程度のモジュールを読み込む」「UEFI環境で動作する数百台の端末が一斉に起動する」といった運用が行われるようになっており、高負荷に起因するこれまで想定していなかった様々な課題がTFTPサーバに発生している。</div>
+<div>本発表においては、これらの課題について紹介するとともに、現在開発中の「超高速TFTPサーバ」の進捗について紹介する。</div>
+</li>
+ 	<li>小谷 大祐 (京都大学):IaaS を活用した情報セキュリティ演習環境の設計と実装
+<div>京都大学工学部情報学科計算機科学コースでは、enPiT-Security (Basic SecCap) の PBL 演習科目として「情報セキュリティ演習」を提供し、Basic SecCap に参加している大学の学生の履修を受け入れている。この演習への履修希望者数は年度によりかなり増減があるため、演習を実施するために必要な演習環境のシステムの規模を事前に予測し調達することが困難であり、履修者数が決定してから短期間で演習の実施に必要な規模の演習環境を準備することが要求される。そこで、演習環境の構築手法を Ansible や Terraform 等を使って記述しておき、IaaS 上で毎年履修希望者数に応じて演習環境を半自動で構築することにした。本発表では、演習内容を簡単に紹介し、その演習をサポートする演習環境やその環境の構築手法の概要について述べる。</div>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">11:10 〜 12:30</td>
+<td style="border-color: #000000; vertical-align: top;" colspan="2">昼食・総会</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">12:30 〜 13:40</td>
+<td style="border-color: #000000; vertical-align: top;" colspan="2">デモ展示</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 192px;">13:40 ～ 15:10</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px; height: 192px;" colspan="2">IoTデータ連携推進分科会(PIOT)
+主査：秋山 豊和 (京都産業大学)
+<ol>
+ 	<li>分科会の紹介 (5 分)</li>
+ 	<li>木村 智恒, 石原 真太郎, 秋山 豊和 (京都産大), 土屋 樹一 (株式会社 JR 西日本コミュニケーションズ): 環境音データによるイベント検知の取り組み
+<div>JR 摩耶駅設置のデジタルサイネージに IoT センサを取り付け，周辺で発生するイベント検知の可否についての調査を 2019 年 2 月まで実施した．本発表では中でも比較的検知が容易であると考えられる自動改札機の動作音に関する調査結果を共有する．</div>
+</li>
+ 	<li>横井 哲也 (エブリセンスジャパン㈱):IoT×ビッグデータ流通実証実験ご報告
+<div>前回「RICC-PIoT workshop 2019」のご協力御礼と、実証実験のご報告について</div>
+</li>
+ 	<li>秋山 豊和 (京都産業大学): IoT時代の研究開発と産学連携について(議論)
+<div>
+ICT技術の発展に伴い、様々な技術課題が解決されてきている。一方で，スマートシティをはじめ，残された課題は複合的でより複雑化したものとなっており，アカデミックな研究開発においても，これらの課題に対する取り組み方を模索している状況である．企業でも同様な課題に直面している．GEデジタルの方針転換などは，platformerとしてのビジネス展開の難しさを示す例であると考えられる．今後もより複雑化する課題に対してどのように取り組んでいくべきか？2024年のうめきた2期まちびらき，2025年の大阪万博を見据えて，今後の産学連携の可能性について議論する．</div>
+</li>
+</ol>
+</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 24px;">15:10 ～ 15:30</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px; height: 24px;" colspan="2">クロージング</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div markdown="0">
+<h2 class="pcla">問い合わせ先</h2>
+</div>
+
+### PC
+
+- 神屋 郁子&nbsp;(九州産業大学)
+- 小林 克志 (東京大学)
+
+### LA
+
+- 岡村耕二 (九州大学)
+
+### メールアレス
+
+- meet45-worker[at mark]mail.itrc.net

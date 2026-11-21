@@ -58,6 +58,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 <link rel="stylesheet" href="{{ page.asset_prefix }}assets/migration.css">
+{% if page.redirect_to %}<meta http-equiv="refresh" content="0;url={{ page.redirect_to | escape }}">{% endif %}
 </head>
 <body class="{{ page.body_class | escape }}">
 <div id="page" class="hfeed site">

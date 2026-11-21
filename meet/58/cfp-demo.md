@@ -1,0 +1,62 @@
+---
+layout: page
+title: meet58 デモ展示募集要項
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/58/cfp-demo/index.html"
+---
+
+- 2025/11/11(火) 9:30 〜 18:10
+- 2025/11/12(水) 9:30 〜 11:40
+
+## 会場
+
+釧路市観光国際交流センター 〒085-0017 北海道釧路市幸町3-3  
+ ([https://ja.kushiro-lakeakan.com/kkc/index.html](https://ja.kushiro-lakeakan.com/kkc/index.html))
+
+## 展示費用
+
+以下のいずれかに該当する場合は無料です。
+
+- ITRC 正会員・法人会員 (入会申込中を含む)
+- 大学及び公的研究機関
+- 本研究会での発表に関連したデモを実施する企業
+
+上記以外の場合は、以下を請求させていただきます。
+
+- 展示協賛金: 30,000円/1件
+
+## 注意事項
+
+- 展示スペースは 1 件あたり 180 cm 幅のスペースがある、と想定ください。
+- 電源容量は 1 件あたり 100 W 程度で、電源タップが 2 口用意される予定です。
+- それ以上の電源容量が必要な場合はご相談ください。
+- 応募状況によっては、電源容量等に制限をお願いする可能性がありますが、予め御了承願います。
+- 延長ケーブルは各自用意願います。
+- ネットワークは無線での提供を予定していますが、電源とネットワークの利用は、デモ申し込み時に事前申請が必須となりますので、ご留意下さい。
+- 11/11 (火) にデモ展示紹介セッションを用意しています。  
+持ち時間は 1 件あたり 5 分程度を予定していますが、件数によって調整させていただく場合があります。
+- 休憩時間などは各ブースにて、説明をお願い致します。
+
+## デモ設営時間
+
+- 11/10(月) 午後 - 18:00
+- 11/11 (火) 9:00~9:30 (予定)
+
+## デモ撤収時間
+
+- 11/12(水) 13:10 - 15:00
+- 11/11 (火) 9:00~9:30 (予定)
+
+## 申込
+
+以下のリンクより申し込みください。  
+[https://docs.google.com/forms/d/e/1FAIpQLSet\_us0E2gvMFyOGQeag1-EAdLZNy-eyXKaziLQwxoTcHI6Dw/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSet_us0E2gvMFyOGQeag1-EAdLZNy-eyXKaziLQwxoTcHI6Dw/viewform?usp=header)
+
+## 申込締切
+
+2025/9/18(木)
+
+## 問い合わせ先
+
+meet58-worker[atmark]mail.itrc.net

@@ -1,0 +1,91 @@
+---
+layout: page
+title: meet58 開催概要
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/58/cfp/index.html"
+---
+
+シン・ITRC 第 58回研究会 (ITRC meet58) の開催概要です。
+
+## 日程
+
+2025年11月10日 (月) 〜 11月12日 (水)
+
+## 会場
+
+会場：釧路市観光国際交流センター（[会場URL](https://ja.kushiro-lakeakan.com/kkc/)）
+
+## 主催
+
+産学協力研究コンソーシアム インターネット技術研究会 (シン・ITRC)
+
+## 共催
+
+電子情報通信学会インターネットアーキテクチャ研究会
+
+## 参加費
+
+無料。ただし懇親会は有料 8000円程度（学生割引あり）です。
+
+懇親会会場: アクアベールくしろ  
+[https://aquaveil-kushiro.com/](https://aquaveil-kushiro.com/)
+
+## 参加登録
+
+締め切りました。照会などは以下にお問い合わせください。
+
+## テーマ
+
+インターネット全般
+
+## タイムテーブル
+
+[プログラム詳細](../program/index.html)
+
+### Day1 (11/10 (月))
+
+| 13:00 | 開場・設営　　　　　　　　　　　　　 |
+| 15:25 ～ 15:30 | オープニング |
+| 15:30 〜 | IEICE IA研究会 |
+
+### Day2 (11/11 (火))
+
+| 9:00 | 開場 |
+| &nbsp;9:30 〜 10:40 | セッション1：PC 企画 |
+| 10:40〜 11:10 | 一般発表 |
+| 11:10 〜 11:50 | デモ展示紹介 |
+| 11:50 〜 13:20 | 昼食 |
+| 13:20 〜 14:40 | セッション2：ITRC PIOT 分科会 |
+| 14:40 〜 15:00 | デモ展示 / 休憩 |
+| 15:00 〜 16:20 | セッション3：ITRC CIS 分科会 |
+| 16:20 〜 16:40 | デモ展示 / 休憩 |
+| 16:40 〜 17:40 | ポスターセッション1 |
+| 19:00 〜 | 懇親会 |
+
+### Day3 (11/12 (水))
+
+| 9:00 | 開場 |
+| 9:30 〜 10:20 | セッション4：招待講演 |
+| 10:20 〜 10:40 | デモ展示 / 休憩 |
+| 10:40 〜 12:00 | セッション5：ITRC RIXX 分科会 |
+| 12:00 〜 13:30 | 昼食 |
+| 13:30 〜 14:30 | ポスターセッション2 |
+| 14:30 〜 | クロージング・撤収 |
+
+## ~~一般発表（口頭発表，WIPポスター発表）、9月16日(火)9月11日(木)〆切~~
+
+口頭一般・ポスター講演を募集します、以下リンクより申し込みください。  
+[https://docs.google.com/forms/d/e/1FAIpQLSdTNEw7gkb386\_qTXpE85o6FoOyFrp9Jx4CvpsFl-OdRq3Qmg/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdTNEw7gkb386_qTXpE85o6FoOyFrp9Jx4CvpsFl-OdRq3Qmg/viewform?usp=header)
+
+## ~~デモ展示、9月18日(木)〆切~~
+
+デモ展示を募集します。詳細はリンクを参照ください。  
+[https://www.itrc.net/meet/58-cf-demo](../cfp-demo/index.html)
+
+## 問い合わせ先
+
+ML：meet58-worker[at-mark]mail.itrc.net
+
+PC：小林 克志（理研），一瀬 光（大分大），飯田勝吉（北大）  
+LA：丸山 伸（CO-CONV），鈴田 伊知郎（Alaxala），砂原 悟（千歳科技大）

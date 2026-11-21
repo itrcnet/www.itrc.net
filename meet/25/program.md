@@ -1,0 +1,232 @@
+---
+layout: page
+title: meet25 program
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/25/program/index.html"
+---
+
+ITRC meet25 プログラムの詳細です。
+
+## 1 日目 (2009 年 5 月 21 日 (木))
+
+### 13:00 〜 13:40
+
+#### [Room A] ITRC 総会 (委員のみ)
+
+### 13:00 〜 13:40
+
+#### [Room B] デモ展示
+
+### 13:40 〜 13:45
+
+#### オープニング
+
+### 13:45 〜 14:10
+
+#### [Room A] デモ展示内容紹介
+
+デモ展示内容紹介 [Room B]にて行われているデモ展示について、各展示企業から紹介
+
+- ディーリンクジャパン株式会社
+- 株式会社インテック・ネットコア
+- 富士通株式会社
+- アラクサラネットワークス株式会社
+- 株式会社 CO-CONV
+- ジュニパーネットワークス株式会社
+
+### 13:45 〜 14:10
+
+#### [Room B] デモ展示
+
+デモ展示
+
+### 14:10 〜 15:40
+
+#### [Room A] 特別セッション 担当: NWGN 分科会
+
+特別セッション「KOREN/JGN2plus Joint Tech Session(remote)」 Co-Chairs: Shinji Shimojo (NICT), Byung-Kyu Kim (NIA)
+
+<div markdown="0">
+<ol>
+  <li>
+    <div class="title">Future Internet Platform Development Project in Korea</div>
+    <div class="authors">Jin Ho Hahm (ETRI)</div>
+  </li>
+  <li>
+    <div class="title">FIRST@PC: Service-oriented Testbed for Future Internet</div>
+    <div class="authors">JongWon Kim (GIST)</div>
+  </li>
+  <li>
+    <div class="title">Programmable Network Platform "OpenFlow" as an innovative base platform of GENI</div>
+    <div class="authors">Atsushi Iwata (NEC)</div>
+  </li>
+  <li>
+    <div class="title">OpenFlow technology and its experiments</div>
+    <div class="authors">Hideyuki Shimonishi (NEC)</div>
+  </li>
+</ol>
+</div>
+
+### 14:10 〜 15:40
+
+#### [Room B] デモ展示
+
+デモ展示
+
+### 15:50 〜 17:20
+
+#### [Room A] 分科会セッション 担当: JAMINA 分科会
+
+JAMINA 分科会セッション「ITによるヘルスケアー・ニューディールを目指して: インフラからアプリケーションまで」 主査: 辰巳治之、副査: 水島洋、事務局: 穴水弘光
+
+<div markdown="0">
+<ul>
+  <li>挨拶
+    <div class="title">オバマの医療 IT 政策と日本版 EHR</div>
+    <div class="authors">NPO JAMINA 理事長 田中博 (東京医科歯科大学 教授)</div>
+  </li>
+</ul>
+</div>
+
+<div markdown="0">
+<ol>
+  <li>
+    <div class="title">VGN-IX の地域医療支援への応用</div>
+    <div class="authors">札幌医科大学附属総合情報センター 副所長 明石 浩史</div>
+  </li>
+  <li>
+    <div class="title">地域 ICT 遠隔医療版: 道南地域医療連携</div>
+    <div class="authors">北海道地域ネットワーク協議会 運営委員長 新見隆彦</div>
+  </li>
+  <li>
+    <div class="title">パーソナルヘルスレコード (PHR) の展望</div>
+    <div class="authors">東京医科歯科大学 准教授 水島 洋</div>
+  </li>
+  <li>
+    <div class="title">IT によるヘルスケアー・ニューディール</div>
+    <div class="authors">札幌医科大学大学院医学研究科 教授 辰巳治之</div>
+  </li>
+</ol>
+</div>
+
+### 15:50 〜 17:20
+
+#### [Room B] デモ展示
+
+デモ展示
+
+## 2 日目 (2009 年 5 月 22 日 (金))
+
+### 8:55 〜 12:15
+
+#### [Room A] 分科会セッション 担当: CIS 分科会
+
+8:55 〜 10:20 クラウドコンピューティング チェア: 未定
+
+<div markdown="0">
+<ol>
+  <li>
+    <div class="title">Cloud コンピューティングが与える IT インフラへの変革</div>
+    <div class="authors">中村彰二朗 (サン・マイクロシステムズ ビジネス開発営業本部 本部長 クラウドコンピューティング統括責任者)</div>
+    <div class="abstract">Cloud コンピューティングは、これまでの IT インフラの考え方と不連続な関係にあり、それに関わる、ユーザー、開発者、IT ベンダーのモデルを根底から見直すことになります。IT が社会インフラへと変貌してゆく方向性を解説します。</div>
+  </li>
+  <li>
+    <div class="title">アカデミッククラウドによる教育学習支援の展望</div>
+    <div class="authors">梶田 将司 (名古屋大学情報連携統括本部情報戦略室)</div>
+    <div class="abstract">本発表では、大規模仮想化計算機リソース基盤において、HPC から教育・研究までを対象にした底辺の広いサービスを、動的に構成・提供可能な大学間連携型学術情報プラットフォーム「アカデミッククラウド環境」とその可能性について、教育学習支援に焦点を絞りながら述べる。</div>
+  </li>
+  <li>
+    <div class="title">プライベートクラウドによるキャンパス内情報基盤の構築</div>
+    <div class="authors">中川 郁夫 (インテック・ネットコア)</div>
+    <div class="abstract">クラウドコンピューティング技術は、インターネット上のサービスを実現するために開発されてきたもので、ネットワーク上の、多数のコンピューティングリソースを統合して大規模で拡張性の高いアプリケーション基盤を実現する。本発表では、クラウドコンピューティング技術を応用し「プライベートクラウド」として、大学などのキャンパス内に、大規模で拡張性の高いアプリケーション環境を構築する技術について紹介する。</div>
+  </li>
+</ol>
+</div>
+
+10:30 〜 12:15 マッシュアップ・認証認可 チェア: 未定
+
+<div markdown="0">
+<ol>
+  <li>
+    <div class="title">情報流通 (マッシュアップ) 基盤としての Zimbra</div>
+    <div class="authors">市村 元信 (NTT データ先端技術)</div>
+    <div class="abstract">昨今、各社が教育機関向けに Web メールサービスを提供している。これら Web メールサービスは無料で提供される事が多く、システム運用の繁雑さやシステム構築のコストを気にせずに Web メールサービスの提供が可能となった。しかし、情報流通基盤としてのメールサービスを外部に依存してしまう事により既設サービスとの連係が行い難くなると考えられる。また、そもそも外部にメールデータを預ける事が果たして安全かどうかというセキュリティ上の懸念も存在する。そこで、本発表では、データを手もとでコントロールしつつ、統合的なサービスを実現するためのツールとして、Zimbra の概要を紹介する。</div>
+  </li>
+  <li>
+    <div class="title">メールを軸としたキャンパス内マッシュアップの実験</div>
+    <div class="authors">乃村 能成 (岡山大学)</div>
+    <div class="abstract">大学の部局や研究室は、各グループの独立性が非常に高く、組織全体をカバーする単一の情報システムを導入しづらい。連絡や情報交換は、依然としてメールに依るところが大きく、メールへの偏重が仕事の効率を下げる局面も存在する。そこで、発表者は、研究室内にある既存の文書管理やメーリングリスト管理システムをメールを軸として融合 (マッシュアップ) する実験を行った。実験には、マッシュアップに適したメーラである Zimbra を使用した。本発表では、その概要について、デモを交えて紹介する。</div>
+  </li>
+  <li>
+    <div class="title">大学間認証連携とその未来</div>
+    <div class="authors">中村 素典 (国立情報学研究所)</div>
+    <div class="abstract">国立情報学研究所では、Shibboleth を利用した大学間認証連携基盤の構築を進めているが、その概要を紹介するとともに、将来的にその認証連携基盤の上に成り立つであろう学術連携基盤に向けて、どのような課題や要求があるのか議論する。</div>
+  </li>
+  <li>
+    <div class="title">オープンドメイン証明書自動発行検証プロジェクトにおける自動発行のアーキテクチャ</div>
+    <div class="authors">島岡 政基 (国立情報学研究所)</div>
+    <div class="abstract">国立情報学研究所では全国の大学等を対象にサーバ証明書を発行する「UPKI オープンドメイン証明書自動発行検証プロジェクト」を開始します。プロジェクトでは、各大学の学内認証基盤と連携することによってサーバ証明書の自動発行が可能な、証明書自動発行支援システムを新たに開発・導入しました。本発表では、自動発行システムを実現する本プロジェクト独自の発行スキームとアーキテクチャについて解説します。</div>
+  </li>
+</ol>
+</div>
+
+### 8:55 〜 12:15
+
+#### [Room B] デモ展示
+
+デモ展示
+
+### 12:15 〜 13:45
+
+#### 昼食
+
+### 12:15 〜 13:45
+
+#### [Room B] デモ展示
+
+### 13:45 〜 17:00
+
+#### [Room A] 分科会セッション 担当: UAI 分科会
+
+UAIセミナー 詳細は UAI セミナーのページをご確認ください。
+
+<div markdown="0">
+<ol>
+  <li>
+    <div class="title">JIS X 8341-3 改正のポイント</div>
+    <div class="authors">渡辺隆行 (東京女子大学)</div>
+  </li>
+  <li>
+    <div class="title">改正版 JIS X 8341-3 に適合した実装方法</div>
+    <div class="authors">植木真 (インフォアクシア)</div>
+  </li>
+  <li>
+    <div class="title">改正版 JIS X 8341-3 を使った試験の方法</div>
+    <div class="authors">梅垣正宏</div>
+  </li>
+  <div class="title">オープンソース・スクリーンリーダ NVDA 日本語版</div>
+  <div class="authors">辻勝利、中村精親 (株式会社ミツエーリンクス)</div>
+</ol>
+</div>
+
+### 17:00 〜 17:15
+
+#### クロージング
+
+<div markdown="0">
+<h2 id="pcla" class="pcla">問い合せ先</h2>
+</div>
+
+### PC
+
+- 古村隆明 (京都大学)
+- 松井博也 (CSK-ITM)
+
+### LA
+
+- 小林克志 (産業技術総合研究所)
+- 中村一彦 (情報通信研究機構)
+- 松嶋保和 (富士通)
+
+その他、本研究会に関しての問い合せは、[質問フォーム](#pcla)で受け付けています。

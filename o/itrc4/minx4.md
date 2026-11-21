@@ -1,0 +1,76 @@
+---
+layout: page
+title: 医療情報ネットワーク連携分科会 (MINX)
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/o/itrc4/minx4/index.html"
+---
+
+<div markdown="0">
+<ul>
+ 	<li>主査
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>辰巳 治之 (札幌医科大学)</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>副査
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>水島 洋 (国立保健医療科学院)</li>
+ 	<li>戸倉 一 (ネットワンシステムズ)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+### チャーター
+
+<div markdown="0">
+<ul>
+ 	<li>医療福祉クラウド協会 (MeWCA) シンポジウム
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>日時: 2014 年 5 月 15 日 (木) 13:00～18:00</li>
+ 	<li>会場: 文京シビックホール(小ホール)</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>第 35 回インターネット技術第 163 委員会 (ITRC) 研究会 (meet35)
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>MINX 分科会セッション開催予定</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>第 36 回インターネット技術第 163 委員会 (ITRC) 研究会 (meet36)
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>MINX 分科会セッション開催予定</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>第 21 回 NORTH インターネット・シンポジウム 2015 開催予定</li>
+ 	<li>第 66 回ネットワーク先端技術フォーラム 開催予定</li>
+</ul>
+</div>
+
+<div markdown="0">
+<div class="entry-content">
+
+※過去の活動詳細は「<a href="../../../activities/index.html">活動</a>」のページをご参照ください。
+
+</div>
+</div>

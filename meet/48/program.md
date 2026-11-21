@@ -1,0 +1,242 @@
+---
+layout: page
+title: meet48 program
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/48/program/index.html"
+---
+
+ITRC meet48 プログラムの詳細です。
+
+## 1 日目 (2020 年 11 月 9 日 (月))
+
+<div markdown="0">
+<table style="width: 1180px; border-color: #000000;" border="3">
+<tbody>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 122px;">13:00 〜 13:10</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px;" colspan="2">オープニング<br>
+セッションチェア: 下條 真司 (大阪大学)
+</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 122px;">13:10 〜 14:15</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px;" colspan="2">
+<strong>デモ展示のオンライン化 / オンラインデモ展示</strong><br>
+セッションチェア: 柏崎 礼生 (NII)
+<ul>
+<li>
+<a href="https://www.co-conv.jp/">株式会社シー・オー・コンヴ</a>
+</li>
+<li><span>アラクサラネットワークス株式会社</span></li>
+<li><a href="http://www.comworth.co.jp/">株式会社 コムワース</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 122px;">14:15 ～ 14:30</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px;" colspan="2">休憩</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 122px;">14:30 ～ 17:20</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px;" colspan="2"><span>電子情報通信学会 インターネットアーキテクチャ研究会セッション</span></td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 122px;">17:20 ～ 18:20</td>
+<td style="border-color: #000000; vertical-align: top; width: 1046px;" colspan="2">ハイブリッド交流会1</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## 2 日目 (2020 年 11 月 10 日 (火))
+
+<div markdown="0">
+<table style="width: 1170px; border-color: #000000;" border="3">
+<tbody>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">09:00 ～ 10:30</td>
+<td style="border-color: #000000; vertical-align: top;" colspan="2">
+<strong><strong><strong>セッション[10-AM1] CIS分科会</strong></strong></strong><br>
+セッションチェア: 大森 幹之 (鳥取大学)
+<ul>
+<li>実験科学のオープンサイエンス化に向けた電子実験ノートの開発・熊谷 将也（さくらインターネット研究所）<br>
+オープンサイエンス推進のため、研究データを公開できるリポジトリの整備が国際的に進んでいる。しかし、未だ研究データのデジタル化さえ進んでいない研究分野も多いため、まずは公開するデータそのものを整備する仕組みが必要である。そこで本研究では、実験科学分野における電子実験ノートに着目し、オープン化を前提としたデータ構造で体系的に研究データが保存できる仕組みを提案する。
+</li>
+<li>オンライン授業をサポートする音響環境についての一考察・中村 素典（京都大学）<br>
+COVID-19感染対策として、多くの大学では2020年度当初より授業のオンライン化が行われたが、後期からは徐々に対面授業への復帰が進められている。密を避けつつ徐々に対面に戻すためには、対面とオンラインの両形態を同時にサポートするハイフレックス型（ハイブリッド型）授業への対応が求められる。本発表では、ハイフレックス型授業を実施するにあたって考慮すべき技術的事項、特に音響面において求められる課題について考察する。
+</li>
+<li>ポストコロナ時代の、学生向け共有・共通PC環境をめぐる諸課題・丸山 伸 （株式会社シー・オー・コンヴ）<br>
+従来、大学において学生向けに提供されてきた共有・共通PC環境は、ポストコロナ時代において大きな変化を余儀なくされた。端末が設置される教室における三密の回避や感染拡大防止策が求められるのは当然に、学生の多くがオンライン講義の受講のために端末を保有するようになったことへの対応も求められる。本講演においては、学生向け共有・共通PC環境を取り巻く様々な変化を取り上げ、これから必要とされる対策・対応や技術について検討・議論する。
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">10:30 ～ 10:45</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px;" colspan="2">休憩</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">10:45 ～ 12:15</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px;" colspan="2">
+<strong><strong><strong>セッション[10-AM2] PC企画1 北海道の産学連携</strong></strong></strong><br>
+セッションチェア: 上田 浩 (法政大学)
+<ul>
+
+<li>スマート水産業と産学連携・和田 雅昭 (公立はこだて未来大学)<br>
+ICTの発展により、スマート水産業の研究が全国で行われるようになりました。しかしながら、研究成果が社会実装された事例はそれほど多くありません。本講演では、北海道における産学連携によるスマート水産業の社会実装事例を紹介し、水産庁が目指すスマート水産業の将来像を展望します。
+</li>
+<li>函館に酒蔵ができるまでの道・小林 淳哉 (函館工業高等専門学校)<br>
+日本酒の酒蔵の空白地帯であった函館に54年ぶりに酒蔵ができることになりました。この建設までの産学官の取り組みについて紹介いたします。さらに次のステージとして酒蔵を拠点に函館高専がすすめようとするアクションについても紹介いたします。
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 24px;">12:15 ～ 13:00</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px; height: 24px;" colspan="2">ITRC 運営委員会</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 24px;">13:00 ～ 13:45</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px; height: 24px;" colspan="2">昼食</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">13:45 ～ 14:15</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px;" colspan="2">
+<strong><strong>オンラインデモ展示</strong></strong><br>
+セッションチェア: 柏崎 礼生 (NII)
+</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">14:15 ～ 15:45</td>
+<td style="border-color: #000000; vertical-align: top;" colspan="2">
+<strong><strong>セッション[10-PM1] PC企画2 北海道のコミュニティ</strong></strong><br>
+セッションチェア: 飯田 勝吉 (北海道大学)
+<ul>
+<li>北海道から考えるネットワークとデータセンターの新しい形・山本 強 (北海道大学 産学・地域協働推進機構/北海道ニュートピアデータセンター研究会)<br>
+DXの進行により、社会システムのデジタルインフラ依存が高まっている。また、北極海経由でヨーロッパとアジアを結ぶ海底光ケーブル計画も実現にむけて動きだしており、北海道の地政学的な役割は国内的、国際的に大きく変わる可能性がある。ソサエティ5.0の時代に向けて、北海道から日本・世界の情報通信基盤の再設計を試みる。
+</li>
+<li>北海道のコミュニティのためのコミュニティ 一般社団法人LOCAL ができるまで、そして現在・三谷 公美 (一般社団法人LOCAL 理事/さくらインターネット株式会社 エバンジェリスト)<br>
+北海道における IT技術・IT技術者のために活動する、メタコミュニティであるところのLOCAL。この団体が形成されるまでの10年、そして法人化してからの10年を振り返ってご紹介します。
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">15:45 〜 16:00</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px;" colspan="2">休憩</td>
+</tr>
+<tr>
+<td style="border-color: #000000; vertical-align: top; width: 129px;">16:00 ～ 17:30</td>
+<td style="border-color: #000000; vertical-align: top;" colspan="2">
+<strong><strong>セッション[10-PM2] PC企画3 オンライン授業・研修に関するパネルディスカッション</strong></strong><br>
+セッションチェア: 上田 浩 (法政大学)
+<ul>
+<li>パネリスト：小林 淳哉 (函館工業高等専門学校)，山本 強 (北海道大学)，三谷 公美 (LOCAL/さくらインターネット株式会社)，飯田 勝吉 (北海道大学)</li>
+<li>コーディネータ：上田 浩 (法政大学)</li>
+<li>2020年度はオンライン授業・研修元年と言え、今後はハイブリッド、ハイフレックスなどオンラインのみにとどまらない授業・研修形態が一般的になると考えられる。このような状況で、より良いオンライン授業・研修とは一体何か、大学、高専、地域コミュニティと立場の異なるパネリストによる討論を行うことに加え、フロアとオンライン参加の皆様からの意見交換を含めた議論を行う。</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 24px;">17:30 ～ 18:30</td>
+<td style="border-color: #000000; vertical-align: top; width: 1021px; height: 24px;" colspan="2">ハイブリッド交流会2</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## 3 日目 (2020 年 11 月 11 日 (水))
+
+<div markdown="0">
+<table style="width: 1170px; border-color: #000000;" border="3">
+<tbody>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 22px;">09:00 ～ 10:30</td>
+<td style="border-color: #000000; vertical-align: top; width: 1029px; height: 22px;" colspan="2">
+<strong><strong><strong>セッション[11-AM1] PC企画4 ソフト駆動インフラの開発</strong></strong></strong><br>
+セッションチェア: 小原 泰弘 (エヌ・ティ・ティ・コミュニケーションズ株式会社)
+<ul>
+<li>Latency Performance of GTP-U and SRv6 Stateless Translation Functions on Software Router (Kamuee) （30分）・李 忠翰 (トヨタ自動車)<br>
+Hardware/Softwareの発展により高速なソフトウエアルータの開発が容易になっており、モバイル分野の新技術である5G、SRv6などに適用されることが期待できる。しかし、ソフトウエアルータの遅延(Latency)の特徴についてはあまり知られていない。本発表では、今後5G、SRv6などに適用するためにDPDKベースのソフトウエアルータであるKamueeでGTP-U/SRv6のStateless変換機能の実装を行い、その遅延評価について報告を行う。
+</li>
+<li>Fast Longest Prefix Matching by Exploiting SIMD Instructions （30分）・上野 幸杜 (東京大学 / NTTコミュニケーションズ)<br>
+Longest prefix matching (LPM) is a fundamental process in IP routing used not only in traditional hardware routers but also in software middleboxes. However, the performance of LPM in software is still insufficient for processing packets at over 100 Gbps, although previous studies have tackled this issue by exploiting the CPU cache or accelerators such as GPUs. To improve the performance of software LPM further, we propose a novel LPM method called Spider, which exploits a single-instruction multiple-data (SIMD) mechanism in the CPU.  The evaluation shows that Spider dramatically improves the LPM performance, which reaches 1.8–3.2 times compared with the state-of-the-art methods.
+</li>
+<li>IPv6シングルスタックネットワークにおけるスケーラブルなIPv4aaS基盤の開発 (30分)・豊田 安信 （株式会社ブロードバンドタワー / 慶應義塾大学）<br>
+近年、IPv4アドレスプールの枯渇やIPv4/IPv6デュアルスタックに伴う運用負荷の高さから、IPv6シングルスタックでのネットワーク運用に注目が集まっている。しかしながらインターネットトラフィック全体に占めるIPv4トラフィックの割合は依然として大きいため、IPv6シングルスタックネットワーク上でIPv4サービスを提供する手法(IPv4aaS)が様々な領域で検討されている。本研究ではコンテンツサービスプロバイダのIPv4aaSのデザイン手法の1つである"SIIT-DC"に着目し、より効率的なIPv4サービス提供を可能にするために必要な仕組みの検討を行った。またアドレス変換テーブルの広告にBGPを利用することにより、スケールアウト可能なIPv4aaS基盤が構築可能であることを実証した。
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 32px;">10:30 ～ 11:00</td>
+<td style="border-color: #000000; vertical-align: top; width: 1029px; height: 32px;" colspan="2">休憩 / ハイブリッドデモ展示</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 29px;">11:00 ～ 12:30</td>
+<td style="border-color: #000000; vertical-align: top; width: 1029px; height: 29px;" colspan="2">
+<strong>セッション[11-AM2] RICC分科会</strong><br>
+セッションチェア: 柏崎 礼生 (NII)
+<ul>
+<li>RICC Introduction / Distcloud update 2020/Q2-3・柏崎 礼生 (NII)<br>
+オンライン開催となった ITRC meet47 からおよそ半年が経過した。しかし COVID-19
+の状況下でくすぶっているような俺たちじゃあない。誰も使わぬ国際高等セミナーハウスで合宿を開催し続け、もくもく回が立ち上がり、共同研究が始まった。本発表では
+RICC の紹介と、そのコアプロジェクトである Distcloud の半年間のアップデートについて述べる。
+</li>
+<li>登山 GPS アプリ YAMAP の活動データから見える登山活動の実態・斎藤 大助 (株式会社ヤマップ)<br>
+YAMAPはオフラインで使える登山地図を提供することで、道迷いを防ぎ、登山の安全向上に貢献するGPSアプリである。同時に、登山中のGPS軌跡を記録し、登山中に撮影した写真とともに登山の記録を作成する機能を提供することで、日本全国のアクティブユーザーによる登山の活動記録が毎日2,000~3,000件づつ蓄積されている。これらのデータを分析することで明らかになる、ユーザーの登山活動の実態について紹介したい。
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 19px;">12:30 ～ 13:30</td>
+<td style="border-color: #000000; vertical-align: top; width: 1029px; height: 19px;" colspan="2">昼食</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 22px;">13:30 ～ 15:00</td>
+<td style="border-color: #000000; vertical-align: top; width: 1029px; height: 22px;" colspan="2">
+<strong>セッション[11-PM1] PIOT分科会</strong><br>
+セッションチェア: 秋山豊和 (京都産業大学)
+<ul>
+<li>分科会の紹介(5分)・秋山豊和 (京都産業大学)
+</li>
+<li>デジタル庁の新設を見据えたデータ流通市場周辺の最新動向(30分)・真野 浩<br>
+2021年にデジタル庁の設置に向けて準備が進められているが、電子化の障壁となっていた省庁業務の電子化が進めば、データ流通市場の実現に向けた動きが大きく加速すると考えられる。省庁の動きを交えて、今後を見据えたデータ流通市場の最新動向について紹介する。
+</li>
+<li>カメラ画像利活用ガイドブックに基づく映像分析実証実験実施のための事例解説(55分)・板倉 陽一郎 (ひかり総合法律事務所弁護士、理化学研究所革新知能統合研究センター客員主管研究員、国立情報学研究所客員教授、大阪大学社会技術共創研究センター招へい教授)<br>
+IoT推進コンソーシアムデータ流通促進WG・カメラ画像利活用SWGの委員であり、IoT推進コンソーシアム・経産省・総務省「カメラ画像利活用ガイドブック」（ver1.0, 2.0）の策定に携わった板倉陽一郎弁護士に、ガイドブックに基づいて実証実験に取り組む上での注意点について、具体的な事例を取り上げながら解説いただく。
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 28px;">
+<td style="border-color: #000000; vertical-align: top; width: 129px; height: 36px;">15:00 〜 15:20</td>
+<td style="border-color: #000000; vertical-align: top; width: 1029px; height: 36px;" colspan="2">クロージング</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## &nbsp;
+
+<div markdown="0">
+<h2 class="pcla">問い合わせ先</h2>
+</div>
+
+### PC
+
+- 上田 浩 (法政大学)
+- 笹部 昌弘 (奈良先端科学技術大学院大学)
+- 小原 泰弘 (エヌ・ティ・ティ・コミュニケーションズ株式会社)
+- 野林 大起 (九州工業大学)
+
+### LA
+
+- 飯田 勝吉（北海道大学）
+- 柏崎 礼生（国立情報学研究所）
+
+### メールアレス
+
+- meet48-worker[at-mark]mail.itrc.net

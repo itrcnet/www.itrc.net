@@ -1,0 +1,60 @@
+---
+layout: page
+title: meet59 デモ展示募集要項
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/59/cfp-demo/index.html"
+---
+
+- 2026/5/13(水) 10:00 〜 18:30
+- 2026/5/14(木) 10:00 〜 17:40
+
+## 会場
+
+<div markdown="0">
+<p>グラングリーン大阪Blooming Camp（大阪府大阪市）<br>(<a href="https://ja.kushiro-lakeakan.com/kkc/index.html"></a><a href="https://bloomingcamp.sakura.ad.jp/access/">アクセス | Blooming Camp</a>)</p>
+</div>
+
+## 展示費用
+
+以下のいずれかに該当する場合は無料です。
+
+- ITRC 正会員・法人会員 (入会申込中を含む)
+- 大学及び公的研究機関
+- 本研究会での発表に関連したデモを実施する企業
+
+上記以外の場合は、以下を請求させていただきます。
+
+- 展示協賛金: 30,000円/1件
+
+## 注意事項
+
+- 展示スペースは 1 件あたり 180 cm 幅のスペースがある、と想定ください。
+- 電源容量は 1 件あたり 100 W 程度で、電源タップが 2 口用意される予定です。
+- それ以上の電源容量が必要な場合はご相談ください。
+- 応募状況によっては、電源容量等に制限をお願いする可能性がありますが、予め御了承願います。
+- 延長ケーブルは各自用意願います。
+- ネットワークは無線での提供を予定していますが、電源とネットワークの利用は、デモ申し込み時に事前申請が必須となりますので、ご留意下さい。
+- 5/13 (水) にデモ展示紹介セッションを用意しています。 持ち時間は 1 件あたり 5 分程度を予定していますが、件数によって調整させていただく場合があります。
+- 休憩時間などは各ブースにて、説明をお願い致します。
+
+## デモ設営時間
+
+- 5/13(水) 9:30 - 10:00
+
+## デモ撤収時間
+
+- 5/14(木) 17:40 - 18:10
+
+## 申込
+
+以下のリンクより申し込みください。  
+[https://docs.google.com/forms/d/e/1FAIpQLSfuwUIOgzpcidu0lPqkhDBvcrUiyPePQDy7W6CJiqR-IAo42g/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfuwUIOgzpcidu0lPqkhDBvcrUiyPePQDy7W6CJiqR-IAo42g/viewform?usp=dialog)
+
+## 申込締切
+
+2026/4/21(火)
+
+## 問い合わせ先
+
+meet59-worker[atmark]mail.itrc.net

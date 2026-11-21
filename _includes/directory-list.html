@@ -1,0 +1,16 @@
+{%- assign directory_prefix = page.url | remove: 'index.html' -%}
+{%- assign directory_sort = page.listing_sort | default: 'title' -%}
+{%- assign directory_pages = site.pages | sort: directory_sort -%}
+{%- if page.listing_reverse -%}
+  {%- assign directory_pages = directory_pages | reverse -%}
+{%- endif -%}
+<ul class="directory-list">
+{%- for entry in directory_pages -%}
+  {%- assign entry_prefix = entry.url | slice: 0, directory_prefix.size -%}
+  {%- assign entry_relative = entry.url | remove_first: directory_prefix -%}
+  {%- assign entry_parts = entry_relative | remove: '/index.html' | split: '/' -%}
+  {%- if entry_prefix == directory_prefix and entry.url != page.url and entry_parts.size == 1 -%}
+<li><a href="{{ entry_relative | escape }}">{{ entry.title | strip_html | escape }}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>

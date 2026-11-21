@@ -1,0 +1,68 @@
+---
+layout: page
+title: meet56 デモ展示募集要項
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/56/demo/index.html"
+---
+
+<div markdown="0">
+<div id="block-fba8cc1b-6934-45ea-9cfe-c31a3ab24e1e" class="block-editor-block-list__block wp-block is-selected wp-block-freeform" tabindex="0" role="document" aria-label="ブロック: クラシック" data-block="fba8cc1b-6934-45ea-9cfe-c31a3ab24e1e" data-type="core/freeform" data-title="クラシック">
+<div>
+<h2>日時</h2>
+<ul>
+ 	<li>2024/11/14(木) 9:00 〜 18:00</li>
+ 	<li>2024/11/15(金) 9:00 〜 14:00</li>
+</ul>
+<h2>会場</h2>
+秋田アトリオン (秋田総合生活文化会館・美術館)（<a href="http://www.atorion.co.jp/index.htm" target="_blank" rel="noreferrer noopener">会場URL</a>）
+
+ 
+<h2>展示費用</h2>
+<ul>
+ 	<li>展示協賛金: 30,000円/1件</li>
+</ul>
+但し、以下のいずれかの該当するものは、展示協賛金を免除いたします。
+<ul>
+ 	<li>ITRC 正会員・法人会員 (入会申込中を含む)</li>
+ 	<li>大学及び公的研究機関</li>
+ 	<li>本研究会での発表に関連したデモを実施する企業</li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+ 	<li>展示スペースは 1 件あたり 180 cm 幅のスペースがある、と想定ください。</li>
+ 	<li>電源容量は 1 件あたり 100 W 程度で、電源タップが 2 口用意される予定です。</li>
+ 	<li>それ以上の電源容量が必要な場合はご相談ください。</li>
+ 	<li>応募状況によっては、電源容量等に制限をお願いする可能性がありますが、予め御了承願います。</li>
+ 	<li>延長ケーブルは各自用意願います。</li>
+ 	<li>ネットワークは無線での提供を予定していますが、電源とネットワークの利用は、デモ申し込み時に事前申請が必須となりますので、ご留意下さい。</li>
+ 	<li>11/14 (木) 11:00 からデモ展示紹介セッションを用意しています。</li>
+ 	<li>デモ紹介展示セッションの持ち時間は 1 件あたり 5 分程度を予定していますが、デモ件数によって調整させていただきます。</li>
+ 	<li>休憩時間などは各ブースにて、説明をお願い致します。</li>
+</ul>
+<h2>デモ設営時間</h2>
+現在準備中です。
+<h2>デモ撤収時間</h2>
+現在準備中です。
+<h2>申込</h2>
+<del>ITRC meet56デモ申込みフォーム からお申し込みください。</del>
+
+締切りました。
+
+Google フォーム へのアクセスが困難な方は以下の内容で PC・LA までごメールください。
+<ul>
+ 	<li>Subject: meet56デモ展示</li>
+ 	<li>お名前</li>
+ 	<li>ご所属</li>
+ 	<li>デモタイトル</li>
+ 	<li>デモ概要 (200文字程度を目安に)</li>
+ 	<li>PC・LAへの伝達事項</li>
+</ul>
+<h2>申込締切</h2>
+2024/10/07(月) 23:59 (JST)
+<h2>問い合わせ先</h2>
+meet56-worker[atmark]mail.itrc.net
+
+</div>
+</div>
+</div>

@@ -1,0 +1,170 @@
+---
+layout: page
+title: meet57 開催概要
+asset_prefix: "../../../"
+body_class: page page-template-page-nosidebar
+permalink: "/meet/57/cfp/index.html"
+---
+
+シン・ITRC 第 57 回研究会（ITRC meet57）の開催概要です．
+
+## 日程
+
+2025年5月21日 (水) 〜 5月22日 (木)
+
+## 会場
+
+現地会場：青森大学東京キャンパス 2F 226講義室（〒134-0087 東京都江戸川区清新町2-10-1 [会場URL](https://aomori-u-tokyo.jp/)）  
+オンライン：Zoom
+
+### 会場へのアクセス
+
+#### 東京メトロ東西線西葛西駅から
+
+<div markdown="0">
+<figure class="wp-block-image size-full is-resized is-style-default"><img src="../../../wp-content/uploads/2025/05/nishikasai-aomoriuniv.png" alt="" class="wp-image-3302" style="width:auto;height:960px"></figure>
+</div>
+
+東京メトロ東西線西葛西駅からお越しの場合は、駅を南下、江戸川球場が見える交差点を渡らず右折し、ゆるやかなスロープをのぼって歩道橋を渡ります。あとはのどかな遊歩道をひたすら南下すると青森大学東京キャンパス東側に到着します。東側からでも西側からでも入ることができます。徒歩15〜20分程度です。
+
+#### JR葛西臨海公園駅から
+
+<div markdown="0">
+<figure class="wp-block-image size-full is-resized"><img src="../../../wp-content/uploads/2025/05/kasairinkaipark-aomoriuniv.png" alt="" class="wp-image-3303" style="width:auto;height:960px"></figure>
+</div>
+
+JR葛西臨海公園駅からのアクセスは、駅の階段を降りて地上に到着すると駅南側に出ますが、そのまま大観覧車を見ながら西へ進みます。しばらく進むとゆるやかな登りとなり、高速道路を横断する橋へと至りますので、北上して渡ってください。渡り切りましたら左折して西へ。遊歩道にそって北上してください。直進、あるいは途中で左折し、警察庁第二機動隊を右手に見ながら直進すると、またもや橋を渡ります。橋を渡るとローソンがあり、それを越えて右折し直進すると青森大学に到着します。徒歩20分といったところです。
+
+## 主催
+
+産学協力研究コンソーシアム インターネット技術研究会（シン・ITRC）
+
+## 参加費
+
+無料．ただし会は有料です．
+
+## 参加登録
+
+[https://docs.google.com/forms/d/e/1FAIpQLSeMzBBFEDd9RvfzJRI\_kXMPlFmOMV5LGGRHLVzaQE35jfdgig/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSeMzBBFEDd9RvfzJRI_kXMPlFmOMV5LGGRHLVzaQE35jfdgig/viewform?usp=dialog)&nbsp;
+
+## 情報交換会
+
+太田昌孝先生退官記念パーティ / ITRC 情報交換会として開催します．  
+5/13 23:59 締切です．以下から早めの申し込みをお願いします．定員に達した場合，早期に締め切らせて頂くことがあります．  
+(5/12 11:00 追記: **会場が変更になっていますので，ご注意下さい** ．)  
+[https://mohta.peatix.com/](https://mohta.peatix.com/)
+
+## タイムテーブル
+
+
+
+
+
+プログラムの詳細は[こちら](../program/index.html) (随時更新中)。
+
+### Day1：5月21日（水）
+
+| 11:30 – 13:00 | 総会 (会員のみ) |
+| 13:00 – 13:05 (5) | オープニング |
+| 13:05 – 13:30 (30) | デモ展示セッション |
+| 13:30 – 13:40 (10) | 休憩・デモ展示 |
+| 13:40 – 17:40 (240) | セッション1: 太田昌孝先生退官記念セッション |
+| 18:30 - 20:30 (120) | 太田昌孝先生退官記念パーティ / ITRC 懇親会 |
+
+### Day2：5月22日（木）
+
+| 9:30 – | 開場 |
+| 10:00 – 11:30 (90) | セッション2: RIXX分科会 |
+| 11:30 – 13:00 (90) | 昼食・デモ展示 |
+| 13:00 – 14:30 (90) | セッション3: CIS分科会 |
+| 14:30 – 14:45 (15) | 休憩・デモ展示 |
+| 14:45 – 15:15 (30) | セッション4: UA分科会 |
+| 15:15 – 16:15 (60) | セッション5: 一般発表 |
+| 16:15 - 16:25 (10) | 休憩 |
+| 16:25 – 16:55 (30) | セッション6: ネットワーク報告 |
+| 16:55 – 17:00 (5) | クロージング |
+
+
+
+
+
+## 一般発表募集
+
+~~一般講演 (今回は口頭発表のみ)を募集しています．以下からお申し込み下さい．~~締め切りました．  
+[https://docs.google.com/forms/d/e/1FAIpQLSf8mCvPf3nydfB71N3ScaTw16Q\_C-AdC5hHiYizl5JKB3-VRQ/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSf8mCvPf3nydfB71N3ScaTw16Q_C-AdC5hHiYizl5JKB3-VRQ/viewform?usp=dialog)
+
+
+
+
+
+
+
+## デモセッション/デモ展示募集
+
+~~デモ展示を募集しています．以下からお申し込み下さい．~~ 締め切りました．  
+[https://docs.google.com/forms/d/e/1FAIpQLSfLOqFGwd0tLR34Bar2kgxY2uRDEbe-62kAVZN\_M-2rbaS4cg/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfLOqFGwd0tLR34Bar2kgxY2uRDEbe-62kAVZN_M-2rbaS4cg/viewform?usp=dialog)
+
+
+
+
+
+## 謝辞
+
+今回の会場ネットワークは，アライドテレシス株式会社さまより，ルータ（AT-ARX200S-GTX）2台，PoE スイッチ（AT-x230-18GP）2台，無線LAN AP（AT-TQ6602 GEN2）6台を貸与頂き，御助言の下，構築しました．ここに謝意を表します．
+
+また，会場ネットワークは，式町 龍聖さん，古賀 陽光さん (九州産業大学)，ジョシュア・リウ，リョ・ハイカ，奥山 瑛斗さん，松谷 錬 さん (青森大学) に設計・構築して頂きました．ここに謝意を表します．
+
+
+
+
+
+
+
+## 問い合わせ先
+
+
+
+
+
+<div markdown="0">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+
+<li>PC: 真野 浩 (コーデンテクノインフォ株式会社)、大森 幹之 (鳥取大学)</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+
+
+<div markdown="0">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>LA: 大川 博督 (青森大学)、下條 真司 (青森大学)、小林 克志（理化学研究所）、柏崎 礼生（近畿大学）、神屋 郁子（福岡女子大学）、三島 和宏 (大阪教育大学)</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+
+
+<div markdown="0">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>ML：meet57-worker[at-mark]mail.itrc.net</li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+
