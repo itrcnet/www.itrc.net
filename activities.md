@@ -17,10 +17,6 @@ permalink: "/activities/index.html"
 - [ITRC5期 分科会一覧](../o/itrc5/wg5/index.html)
 - [ITRC4期 分科会一覧](../o/itrc4/wg/index.html)
 
-### 出版物
-
-- （準備中）
-
 <div markdown="0">
 <h3 class="top">アーカイブ</h3>
 </div>
