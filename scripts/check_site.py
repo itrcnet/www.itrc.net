@@ -27,7 +27,7 @@ for page in site.rglob('*.html'):
  assert '{{' not in text and '{% raw %}' not in text,rel
  assert '[su_spoiler' not in text,rel
  Audit().feed(text); report['pages']+=1
-expected=sum(1 for p in root.rglob('*') if p.is_file() and p.suffix in ('.html', '.md') and p.name != 'README.md' and not any(part in ('_site', '_layouts', '_includes', 'vendor', '.jekyll-cache', 'reports', 'scripts', '.git') for part in p.relative_to(root).parts))
+expected=sum(1 for p in root.rglob('*') if p.is_file() and p.suffix in ('.html', '.md') and p.name != 'README.md' and not p.is_relative_to(root/'meet/sample') and not any(part in ('_site', '_layouts', '_includes', 'vendor', '.jekyll-cache', 'reports', 'scripts', '.git') for part in p.relative_to(root).parts))
 assert report['pages']==expected,(report['pages'],expected)
 class FragmentIndex(HTMLParser):
  def __init__(self, text):
@@ -61,3 +61,5 @@ assert not report['forms'], 'Review remaining forms'
 
 assert not report["missing_links"] and not report["missing_assets"], "Missing local targets"
 assert not report["missing_fragments"] and not report["missing_redirects"], "Missing anchors or redirect targets"
+
+assert not (site/"meet/sample").exists(), "Editing samples must not be published"

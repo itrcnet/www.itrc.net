@@ -30,7 +30,7 @@ permalink: "/meet/60/cfp/index.html"
 
 ## 参加と宿泊登録
 
-以下リンクより申し込みください。~~（締め切り：10月18日　宿泊施設予約のため）~~  
+申込受付は終了しました。~~（締め切り：10月18日　宿泊施設予約のため）~~  
 ~~室料： 4人部屋 27600円、1人部屋 33300円（２泊３日分：合宿形式　6食分含む）~~  
 ~~詳細：~~  
 ~~**4人部屋（1人あたり） 1日目 14300円、2日目 13300円 （3食付き/税込み）　計　27600円**~~  
@@ -38,8 +38,8 @@ permalink: "/meet/60/cfp/index.html"
 別途、上記に加え　一人1泊　入湯税　150円必要  
 **支払方法：現金のみ**
 
-[~~https://docs.google.com/forms/d/e/1FAIpQLScecTp1H5al7n3G19YPsazH6pawdcEmmtlcUp3S9xWpYZxhlA/viewform~~](https://docs.google.com/forms/d/e/1FAIpQLScecTp1H5al7n3G19YPsazH6pawdcEmmtlcUp3S9xWpYZxhlA/viewform)  
-締め切りました。恐れいりますが、オンライン聴講等の要望は最下のメールにてご連絡ください。
+申込フォーム（受付終了）  
+参加・宿泊およびオンライン聴講の受付は終了しました。
 
 ## テーマ
 
@@ -93,13 +93,13 @@ permalink: "/meet/60/cfp/index.html"
 ~~口頭一般・ポスター講演を募集します、以下リンクより申し込みください。~~　締め切りました。  
 ポスターサイズ：A0まで
 
-[~~https://docs.google.com/forms/d/e/1FAIpQLScgudWwQIDncIeareXM5oYIaYzAOC21\_PEMHLOK-4zj7RbtiA/viewform?usp=publish-editor~~](https://docs.google.com/forms/d/e/1FAIpQLScgudWwQIDncIeareXM5oYIaYzAOC21_PEMHLOK-4zj7RbtiA/viewform?usp=publish-editor)
+申込フォーム（受付終了）
 
 ## デモ展示、締め切り：9月18日
 
 ~~デモ展示を募集します。詳細はリンクを参照ください。~~　締め切りました。
 
-[~~https://docs.google.com/forms/d/e/1FAIpQLSdoxlOkmdhVg7w-WOyq0dB9bWe6HJIdxa-ONDq\_gCnBAgLjRg/viewform?usp=publish-editor~~](https://docs.google.com/forms/d/e/1FAIpQLSdoxlOkmdhVg7w-WOyq0dB9bWe6HJIdxa-ONDq_gCnBAgLjRg/viewform?usp=publish-editor)
+申込フォーム（受付終了）
 
 ## 問い合わせ先
 
